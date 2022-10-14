@@ -21,14 +21,18 @@ def main():
 
     youtube: googleapiclient.discovery.Resource = googleapiclient.discovery.build(api_service_name, api_version, developerKey=DEVELOPER_KEY)
 
+    youtubeID = "igu4JFZ9MhU"
+    # malyalam aa
     request = youtube.commentThreads().list(
         part="snippet,replies",
-        videoId="_VB39Jo8mAQ",
-        maxResults=2000
+        videoId=youtubeID,
+        maxResults=2000,
+        textFormat='plainText'
     )
     response = request.execute()
+    print(response)
 
-    x = json.dumps(response, sort_keys=True, indent=4)
+    x = json.dumps(response, indent=4)
     f = open('response.json', 'w')
     f.write(x)
 
