@@ -36,16 +36,15 @@ def importComments():
         return comments
 
 
-def getComments(youtubeVideoId: str, MAX_COMMENT=2000):
+def getComments(youtubeVideoId: str, MAX_COMMENT=1000):
     """
-    Returns a list of 2000 comments. Saves the comments in response.json
+    Returns a list of MAX_COMMENT number of comments. Saves the comments in response.json
     """
     comment_list = []
 
-    response = {'nextPageToken': '', 'items': []}
+    response = {'nextPageToken': ''}
 
     while (response.get('nextPageToken', None) != None and len(comment_list) < MAX_COMMENT):
-        comment_list.extend(process_comments(response['items']))
         request = youtubeApi.commentThreads().list(
             part="snippet",
             videoId=youtubeVideoId,
@@ -55,6 +54,7 @@ def getComments(youtubeVideoId: str, MAX_COMMENT=2000):
             maxResults=100,  # 100 Is MAX limit possible, default is 20
         )
         response = request.execute()
+        comment_list.extend(process_comments(response['items']))
         print(f'Extracted : {len(comment_list)} Comments')
 
     print(f'Dumping file to {FILE_PATH}')
