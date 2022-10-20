@@ -1,7 +1,7 @@
 import os
 import googleapiclient.discovery
 import json
-from api.parentComments import process_comments
+from api.parent_comments import process_comments
 
 API_NAME = "youtube"
 API_VER = "v3"
