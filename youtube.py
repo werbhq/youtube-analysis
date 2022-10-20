@@ -24,7 +24,7 @@ def getComments(channelId):
     api_service_name = "youtube"
     api_version = "v3"
     DEVELOPER_KEY = "AIzaSyAwfyIG_RDJymt6j7Ic9slOvOjmZtlwc0k"
-    MAX_COMMENT=2000
+    MAX_COMMENT = 2000
 
     youtube: googleapiclient.discovery.Resource = googleapiclient.discovery.build(api_service_name, api_version, developerKey=DEVELOPER_KEY)
 
@@ -40,7 +40,7 @@ def getComments(channelId):
 
     comment_list.extend(process_comments(response['items']))
 
-    while (response['nextPageToken'] != NULL and len(comment_list) < MAX_COMMENT):  
+    while (response.get('nextPageToken', NULL) != NULL and len(comment_list) < MAX_COMMENT):
         comment_list.extend(process_comments(response['items']))
         request = youtube.commentThreads().list(
             part="snippet",
@@ -51,13 +51,20 @@ def getComments(channelId):
             maxResults=100,  # 100 Is MAX limit possible, default is 20
         )
         response = request.execute()
+        print(response)
 
     x = json.dumps(comment_list, indent=4)
     f = open('response.json', 'w')
     f.write(x)
+    
+    with open('response.json','r') as json_file:
+        user_data=json.loads(json_file.read())
+        for u in user_data:
+            print(u)
+
 
 def main():
-    getComments('zYc83YbeU-U')
+    getComments('SffDXh8WLZo')
 
 
 if __name__ == "__main__":
