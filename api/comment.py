@@ -32,7 +32,7 @@ def importComments():
         return comments
 
 
-def fetchComments(youtubeVideoId: str, MAX_COMMENT=1000):
+def fetchComments(youtubeVideoId: str, MAX_COMMENT=1500):
     """
     Returns a list of MAX_COMMENT number of comments. Saves the comments in response.json
     """
