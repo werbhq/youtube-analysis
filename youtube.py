@@ -1,10 +1,18 @@
 from api.comment import importComments, getComments
 
+# Only use getComments() once. Then use importComments() for testing
+TESTING = False
+
 
 def main():
-    # Only use getComments() once. Then use importComments() for testing
-    # comments = getComments('Ntn1-SocNiY')
-    comments = importComments()
+    videoId = 'Ntn1-SocNiY'
+    comments: list
+
+    if TESTING:
+        comments = importComments()
+    else:
+        comments = getComments(videoId)
+
     print(comments[0])
 
 
