@@ -47,8 +47,7 @@ def fetchCaptions(youtubeId: str):
         print("No Subtitle Found")
 
     print(f'Dumping file to {FILE_PATH}')
-    data = json.dumps(wordMap, indent=4)
-    f = open(FILE_PATH, 'w')
-    f.write(data)
+    with open(FILE_PATH, 'w') as f:
+        f.write(json.dumps(wordMap, indent=4))
 
     return wordMap

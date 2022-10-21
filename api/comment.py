@@ -54,8 +54,7 @@ def fetchComments(youtubeVideoId: str, MAX_COMMENT=1000):
         print(f'Extracted : {len(comment_list)} Comments')
 
     print(f'Dumping file to {FILE_PATH}')
-    data = json.dumps(comment_list, indent=4)
-    f = open(FILE_PATH, 'w')
-    f.write(data)
+    with open(FILE_PATH, 'w') as f:
+        f.write(json.dumps(comment_list, indent=4))
 
     return comment_list
