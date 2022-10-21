@@ -2,7 +2,7 @@ import os
 import json
 from api import youtubeApi
 
-FILE_PATH = os.path.join('data', 'response.json')
+FILE_PATH = os.path.join('data', 'comments.json')
 
 
 def process_comments(response_items):

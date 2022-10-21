@@ -1639,20 +1639,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "I can\u2019t believe how well and clear this guy presented this course. Well spoken dude.",
-        "textOriginal": "I can\u2019t believe how well and clear this guy presented this course. Well spoken dude.",
-        "authorDisplayName": "Qflick",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-0ATcJ-YEczCbg6aBWXuCvHDcLqO7Bx0JUshHx=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCfpLOh7I8szXgFPejqVjKug",
-        "authorChannelId": "UCfpLOh7I8szXgFPejqVjKug",
-        "viewerRating": "none",
-        "likeCount": 62,
-        "publishedAt": "2020-01-03T22:34:50Z",
-        "updatedAt": "2020-01-03T22:34:50Z",
-        "id": "UgymWStnXwzb-w-Zz5J4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "i like how he keeps saying \"this function is awesome, that function is awesome\", that shows how much he loves his work and what he is doing. Keep it go pal, you rock",
         "textOriginal": "i like how he keeps saying \"this function is awesome, that function is awesome\", that shows how much he loves his work and what he is doing. Keep it go pal, you rock",
         "authorDisplayName": "Tu\u1ea5n Ph\u00f9ng",
@@ -1692,6 +1678,20 @@
         "publishedAt": "2020-06-10T06:02:08Z",
         "updatedAt": "2020-06-10T06:02:31Z",
         "id": "UgxnWJDx0I6CWxobF0t4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "I absolutely think that this is the best python tutorial out there and he did such a great job at grouping the different sections of what you were going to learn and explaining everything that he did in deep description. I am a middle schooler and I was able to easily understand what he was talking about after what he did it. Thank you for teaching me all of this and I cannot believe that 18 million people have seen this and benefited from just this one video.",
+        "textOriginal": "I absolutely think that this is the best python tutorial out there and he did such a great job at grouping the different sections of what you were going to learn and explaining everything that he did in deep description. I am a middle schooler and I was able to easily understand what he was talking about after what he did it. Thank you for teaching me all of this and I cannot believe that 18 million people have seen this and benefited from just this one video.",
+        "authorDisplayName": "The Golden Shiba Lover",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-QnZCYwpUkFejMjwmAFewFvoAiBTgNf6iZO2qD=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbj-TgOzyksLwJAjY-clvpw",
+        "authorChannelId": "UCbj-TgOzyksLwJAjY-clvpw",
+        "viewerRating": "none",
+        "likeCount": 44,
+        "publishedAt": "2020-10-04T15:35:34Z",
+        "updatedAt": "2020-10-04T15:36:33Z",
+        "id": "UgzLj4sZWZS62MO9xQR4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -2423,20 +2423,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "Just a little note. Several times you use the term function when in reality you are using a method. Functions and methods are very similar but not the same. In this IDE you can tell easily the difference, cuz when it's really a function the color turns orange.",
-        "textOriginal": "Just a little note. Several times you use the term function when in reality you are using a method. Functions and methods are very similar but not the same. In this IDE you can tell easily the difference, cuz when it's really a function the color turns orange.",
-        "authorDisplayName": "Tiago Silva",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-fFdLQ9TTXvxwpwbfaOlpzEwPQDohoJGq9QGQHKQ=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCSnjmRdRwpBKa9s8ICPEMdA",
-        "authorChannelId": "UCSnjmRdRwpBKa9s8ICPEMdA",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-10-12T01:38:04Z",
-        "updatedAt": "2022-10-12T01:38:04Z",
-        "id": "Ugwfn_oqP809pYTaDil4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "Day 1 = 1.05\nDay 2 = 2:07\nDay 3 = 3:05",
         "textOriginal": "Day 1 = 1.05\nDay 2 = 2:07\nDay 3 = 3:05",
         "authorDisplayName": "Roshan Karthik",
@@ -2560,6 +2546,20 @@
         "publishedAt": "2022-07-24T19:52:09Z",
         "updatedAt": "2022-07-24T19:52:09Z",
         "id": "UgxYbLDhE5RZ1OVCrE54AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "Just a little note. Several times you use the term function when in reality you are using a method. Functions and methods are very similar but not the same. In this IDE you can tell easily the difference, cuz when it's really a function the color turns orange.",
+        "textOriginal": "Just a little note. Several times you use the term function when in reality you are using a method. Functions and methods are very similar but not the same. In this IDE you can tell easily the difference, cuz when it's really a function the color turns orange.",
+        "authorDisplayName": "Tiago Silva",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-fFdLQ9TTXvxwpwbfaOlpzEwPQDohoJGq9QGQHKQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSnjmRdRwpBKa9s8ICPEMdA",
+        "authorChannelId": "UCSnjmRdRwpBKa9s8ICPEMdA",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-10-12T01:38:04Z",
+        "updatedAt": "2022-10-12T01:38:04Z",
+        "id": "Ugwfn_oqP809pYTaDil4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -2857,6 +2857,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "The \"Dislikes\" are from those trying to sell Python for a fee. This dude is so awesome and gives such Python knowledge for free, they hating on him.  The award for the best quarantine lockdown video goes to this dude.",
+        "textOriginal": "The \"Dislikes\" are from those trying to sell Python for a fee. This dude is so awesome and gives such Python knowledge for free, they hating on him.  The award for the best quarantine lockdown video goes to this dude.",
+        "authorDisplayName": "Yenih - The Renaissance Zone",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_V3xC_oQJMDOnyiE6Qy5zQYxL8YJdedUrSoae3=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9LAjLGqDqsUDd1mg7FP1MA",
+        "authorChannelId": "UC9LAjLGqDqsUDd1mg7FP1MA",
+        "viewerRating": "none",
+        "likeCount": 633,
+        "publishedAt": "2020-04-24T04:53:30Z",
+        "updatedAt": "2020-04-24T04:53:30Z",
+        "id": "UgxsFI-nxDKmpDtm2yl4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "I am a total beginner and for me this is one of the best tutorials of any kind I have seen! I was left confused by other videos but this makes total sense - and is quite fun to follow. Thank you!",
         "textOriginal": "I am a total beginner and for me this is one of the best tutorials of any kind I have seen! I was left confused by other videos but this makes total sense - and is quite fun to follow. Thank you!",
         "authorDisplayName": "Knud Stuwe",
@@ -3025,6 +3039,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "I can\u2019t believe how well and clear this guy presented this course. Well spoken dude.",
+        "textOriginal": "I can\u2019t believe how well and clear this guy presented this course. Well spoken dude.",
+        "authorDisplayName": "Qflick",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-0ATcJ-YEczCbg6aBWXuCvHDcLqO7Bx0JUshHx=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCfpLOh7I8szXgFPejqVjKug",
+        "authorChannelId": "UCfpLOh7I8szXgFPejqVjKug",
+        "viewerRating": "none",
+        "likeCount": 62,
+        "publishedAt": "2020-01-03T22:34:50Z",
+        "updatedAt": "2020-01-03T22:34:50Z",
+        "id": "UgymWStnXwzb-w-Zz5J4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "One of the best tutorials available on youtube. I am a beginner and already loving it.",
         "textOriginal": "One of the best tutorials available on youtube. I am a beginner and already loving it.",
         "authorDisplayName": "Joash Geteregechi",
@@ -3050,34 +3078,6 @@
         "publishedAt": "2019-01-20T20:05:20Z",
         "updatedAt": "2019-01-20T20:05:20Z",
         "id": "UgyN8OKbgPXhZHcymn94AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "He deserves a crown, he's the king of Python, so patient, good pace, actually I learned much more with him than at the college, well done  Mike Dane.",
-        "textOriginal": "He deserves a crown, he's the king of Python, so patient, good pace, actually I learned much more with him than at the college, well done  Mike Dane.",
-        "authorDisplayName": "Jo\u00e3o Batista",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8l4S4otZYvQzFhSQsPnxG3fW6EAqDmdtV1vA=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCLMjWoG3ZB0wjk9B1awKOZw",
-        "authorChannelId": "UCLMjWoG3ZB0wjk9B1awKOZw",
-        "viewerRating": "none",
-        "likeCount": 46,
-        "publishedAt": "2020-02-23T16:41:55Z",
-        "updatedAt": "2020-02-23T17:32:41Z",
-        "id": "UgybSY5rsk8nicXhGUJ4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "I absolutely think that this is the best python tutorial out there and he did such a great job at grouping the different sections of what you were going to learn and explaining everything that he did in deep description. I am a middle schooler and I was able to easily understand what he was talking about after what he did it. Thank you for teaching me all of this and I cannot believe that 18 million people have seen this and benefited from just this one video.",
-        "textOriginal": "I absolutely think that this is the best python tutorial out there and he did such a great job at grouping the different sections of what you were going to learn and explaining everything that he did in deep description. I am a middle schooler and I was able to easily understand what he was talking about after what he did it. Thank you for teaching me all of this and I cannot believe that 18 million people have seen this and benefited from just this one video.",
-        "authorDisplayName": "The Golden Shiba Lover",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-QnZCYwpUkFejMjwmAFewFvoAiBTgNf6iZO2qD=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCbj-TgOzyksLwJAjY-clvpw",
-        "authorChannelId": "UCbj-TgOzyksLwJAjY-clvpw",
-        "viewerRating": "none",
-        "likeCount": 44,
-        "publishedAt": "2020-10-04T15:35:34Z",
-        "updatedAt": "2020-10-04T15:36:33Z",
-        "id": "UgzLj4sZWZS62MO9xQR4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -4229,20 +4229,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "The \"Dislikes\" are from those trying to sell Python for a fee. This dude is so awesome and gives such Python knowledge for free, they hating on him.  The award for the best quarantine lockdown video goes to this dude.",
-        "textOriginal": "The \"Dislikes\" are from those trying to sell Python for a fee. This dude is so awesome and gives such Python knowledge for free, they hating on him.  The award for the best quarantine lockdown video goes to this dude.",
-        "authorDisplayName": "Yenih - The Renaissance Zone",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_V3xC_oQJMDOnyiE6Qy5zQYxL8YJdedUrSoae3=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UC9LAjLGqDqsUDd1mg7FP1MA",
-        "authorChannelId": "UC9LAjLGqDqsUDd1mg7FP1MA",
-        "viewerRating": "none",
-        "likeCount": 633,
-        "publishedAt": "2020-04-24T04:53:30Z",
-        "updatedAt": "2020-04-24T04:53:30Z",
-        "id": "UgxsFI-nxDKmpDtm2yl4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "I just finished the course!!!!!!  just started on my coding python journey! I\u2019m excited! Thank you!",
         "textOriginal": "I just finished the course!!!!!!  just started on my coding python journey! I\u2019m excited! Thank you!",
         "authorDisplayName": "Shami Official",
@@ -4327,20 +4313,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "0:00 introduction\r\n1:45 installing python and pycharm\r\n6:40 setup and hello world\r\n10:23 Drawing a shape\r\n15:06 Variables and Data types\r\n27:03 Working with strings\r\n38:18 Working with numbers\r\n48:26 Getting input from users\r\n52:37 building a basic calculator\r\n58:27 Mad libs Game \r\n1:03:10 Lists \r\n1:10:44 List Functions \r\n1:18:57 Tuples \r\n1:24:15 Functions \r\n1:34:11 Return statement \r\n1:40:06 If statement \r\n1:54:07 If statements and comparisons \r\n2:00:37 Building a better calculator \r\n2:07:17 Dictionaries\r\n2:14:13 While loop\r\n2:20:21 Building a Guessing game\r\n2:32:44 For loop\r\n2:41:20 Exponent Function \r\n2:47:13  2D lists and nested loop\r\n2:52:41 Building a Translator \r\n3:00:18 Comments \r\n3:04:17 Try/Except \r\n3:12:41 Reading Files \r\n3:21:26 Writing a file\r\n3:28:13 Modules and pip \r\n3:43:56 Classes and Objects \r\n3:57:37 Building a Multiple choice quiz\r\n4:08:28 Object Function \r\n4:12:37 Inheritance \r\n4:20:43 Python interpreter\r\n...Thank you...",
-        "textOriginal": "0:00 introduction\r\n1:45 installing python and pycharm\r\n6:40 setup and hello world\r\n10:23 Drawing a shape\r\n15:06 Variables and Data types\r\n27:03 Working with strings\r\n38:18 Working with numbers\r\n48:26 Getting input from users\r\n52:37 building a basic calculator\r\n58:27 Mad libs Game \r\n1:03:10 Lists \r\n1:10:44 List Functions \r\n1:18:57 Tuples \r\n1:24:15 Functions \r\n1:34:11 Return statement \r\n1:40:06 If statement \r\n1:54:07 If statements and comparisons \r\n2:00:37 Building a better calculator \r\n2:07:17 Dictionaries\r\n2:14:13 While loop\r\n2:20:21 Building a Guessing game\r\n2:32:44 For loop\r\n2:41:20 Exponent Function \r\n2:47:13  2D lists and nested loop\r\n2:52:41 Building a Translator \r\n3:00:18 Comments \r\n3:04:17 Try/Except \r\n3:12:41 Reading Files \r\n3:21:26 Writing a file\r\n3:28:13 Modules and pip \r\n3:43:56 Classes and Objects \r\n3:57:37 Building a Multiple choice quiz\r\n4:08:28 Object Function \r\n4:12:37 Inheritance \r\n4:20:43 Python interpreter\r\n...Thank you...",
-        "authorDisplayName": "Qtoq",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/3mo6urVXV-KiBGUNrZucz3s_5B075s4tuD8dBgCtg69q8TWpwStJXvLxiEHTOtFFwfH_tG7pbA=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCYS02kQVO755bd9sxrDBPIg",
-        "authorChannelId": "UCYS02kQVO755bd9sxrDBPIg",
-        "viewerRating": "none",
-        "likeCount": 100,
-        "publishedAt": "2022-06-08T20:06:29Z",
-        "updatedAt": "2022-06-08T20:06:29Z",
-        "id": "Ugx4ftqDZiNX0n0oIeF4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "0:00 introduction\r\n1:45 hello world\n6:40 functions\n10:23 creating a file\n15:06 taking control over your neighbours garage door\n27:03 control your own pc\n38:18 hacking a computer\n48:26 gaining access to NASA\n52:37 make a spreading virus\n58:27 get your first victims\r\n1:03:10 using NASA press to spread virus\n1:10:44 Virus spreads to pentagon\n1:18:57 Hacking into missiles\n1:24:15 Sending missiles to NK\n1:34:11 Manipulate powergrids\n1:40:06 create a new gender\n1:54:07 - 4:20:43 how to define variables\n\n...Thank you...",
         "textOriginal": "0:00 introduction\r\n1:45 hello world\n6:40 functions\n10:23 creating a file\n15:06 taking control over your neighbours garage door\n27:03 control your own pc\n38:18 hacking a computer\n48:26 gaining access to NASA\n52:37 make a spreading virus\n58:27 get your first victims\r\n1:03:10 using NASA press to spread virus\n1:10:44 Virus spreads to pentagon\n1:18:57 Hacking into missiles\n1:24:15 Sending missiles to NK\n1:34:11 Manipulate powergrids\n1:40:06 create a new gender\n1:54:07 - 4:20:43 how to define variables\n\n...Thank you...",
         "authorDisplayName": "Green Figure",
@@ -4352,6 +4324,20 @@
         "publishedAt": "2019-10-12T14:14:28Z",
         "updatedAt": "2019-10-12T14:14:28Z",
         "id": "Ugx9y2IYF9bi2AKY8tN4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "This was soooo nice, thank you so much! I\u2019m completely new to python and this is so easy to follow and understand. You explained everything so in-depth and nice. Great tutorial!!",
+        "textOriginal": "This was soooo nice, thank you so much! I\u2019m completely new to python and this is so easy to follow and understand. You explained everything so in-depth and nice. Great tutorial!!",
+        "authorDisplayName": "Eirik Hultgreen",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8d0YaxJmHd9Yf35GAd16FOjwE-rgduIB6jlg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCRAM2uIwu5_of4jdhld4MIQ",
+        "authorChannelId": "UCRAM2uIwu5_of4jdhld4MIQ",
+        "viewerRating": "none",
+        "likeCount": 71,
+        "publishedAt": "2021-10-07T13:52:39Z",
+        "updatedAt": "2021-10-07T13:52:39Z",
+        "id": "UgzAkS-lAuLB0ZoOSwR4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -4394,6 +4380,20 @@
         "publishedAt": "2020-11-25T02:31:40Z",
         "updatedAt": "2020-11-25T02:31:40Z",
         "id": "UgyG3uKbUXlj9OI67Ix4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "He deserves a crown, he's the king of Python, so patient, good pace, actually I learned much more with him than at the college, well done  Mike Dane.",
+        "textOriginal": "He deserves a crown, he's the king of Python, so patient, good pace, actually I learned much more with him than at the college, well done  Mike Dane.",
+        "authorDisplayName": "Jo\u00e3o Batista",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8l4S4otZYvQzFhSQsPnxG3fW6EAqDmdtV1vA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLMjWoG3ZB0wjk9B1awKOZw",
+        "authorChannelId": "UCLMjWoG3ZB0wjk9B1awKOZw",
+        "viewerRating": "none",
+        "likeCount": 46,
+        "publishedAt": "2020-02-23T16:41:55Z",
+        "updatedAt": "2020-02-23T17:32:41Z",
+        "id": "UgybSY5rsk8nicXhGUJ4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -5699,6 +5699,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "0:00 introduction\r\n1:45 installing python and pycharm\r\n6:40 setup and hello world\r\n10:23 Drawing a shape\r\n15:06 Variables and Data types\r\n27:03 Working with strings\r\n38:18 Working with numbers\r\n48:26 Getting input from users\r\n52:37 building a basic calculator\r\n58:27 Mad libs Game \r\n1:03:10 Lists \r\n1:10:44 List Functions \r\n1:18:57 Tuples \r\n1:24:15 Functions \r\n1:34:11 Return statement \r\n1:40:06 If statement \r\n1:54:07 If statements and comparisons \r\n2:00:37 Building a better calculator \r\n2:07:17 Dictionaries\r\n2:14:13 While loop\r\n2:20:21 Building a Guessing game\r\n2:32:44 For loop\r\n2:41:20 Exponent Function \r\n2:47:13  2D lists and nested loop\r\n2:52:41 Building a Translator \r\n3:00:18 Comments \r\n3:04:17 Try/Except \r\n3:12:41 Reading Files \r\n3:21:26 Writing a file\r\n3:28:13 Modules and pip \r\n3:43:56 Classes and Objects \r\n3:57:37 Building a Multiple choice quiz\r\n4:08:28 Object Function \r\n4:12:37 Inheritance \r\n4:20:43 Python interpreter\r\n...Thank you...",
+        "textOriginal": "0:00 introduction\r\n1:45 installing python and pycharm\r\n6:40 setup and hello world\r\n10:23 Drawing a shape\r\n15:06 Variables and Data types\r\n27:03 Working with strings\r\n38:18 Working with numbers\r\n48:26 Getting input from users\r\n52:37 building a basic calculator\r\n58:27 Mad libs Game \r\n1:03:10 Lists \r\n1:10:44 List Functions \r\n1:18:57 Tuples \r\n1:24:15 Functions \r\n1:34:11 Return statement \r\n1:40:06 If statement \r\n1:54:07 If statements and comparisons \r\n2:00:37 Building a better calculator \r\n2:07:17 Dictionaries\r\n2:14:13 While loop\r\n2:20:21 Building a Guessing game\r\n2:32:44 For loop\r\n2:41:20 Exponent Function \r\n2:47:13  2D lists and nested loop\r\n2:52:41 Building a Translator \r\n3:00:18 Comments \r\n3:04:17 Try/Except \r\n3:12:41 Reading Files \r\n3:21:26 Writing a file\r\n3:28:13 Modules and pip \r\n3:43:56 Classes and Objects \r\n3:57:37 Building a Multiple choice quiz\r\n4:08:28 Object Function \r\n4:12:37 Inheritance \r\n4:20:43 Python interpreter\r\n...Thank you...",
+        "authorDisplayName": "Qtoq",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/3mo6urVXV-KiBGUNrZucz3s_5B075s4tuD8dBgCtg69q8TWpwStJXvLxiEHTOtFFwfH_tG7pbA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCYS02kQVO755bd9sxrDBPIg",
+        "authorChannelId": "UCYS02kQVO755bd9sxrDBPIg",
+        "viewerRating": "none",
+        "likeCount": 100,
+        "publishedAt": "2022-06-08T20:06:29Z",
+        "updatedAt": "2022-06-08T20:06:29Z",
+        "id": "Ugx4ftqDZiNX0n0oIeF4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "i wish all my teachers taught as well as you did, literally had no doubts. Thank you!",
         "textOriginal": "i wish all my teachers taught as well as you did, literally had no doubts. Thank you!",
         "authorDisplayName": "Devni G",
@@ -5710,20 +5724,6 @@
         "publishedAt": "2021-09-21T12:28:35Z",
         "updatedAt": "2021-09-21T12:28:35Z",
         "id": "UgwYB_ZRxB8vb7AeQAV4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "This was soooo nice, thank you so much! I\u2019m completely new to python and this is so easy to follow and understand. You explained everything so in-depth and nice. Great tutorial!!",
-        "textOriginal": "This was soooo nice, thank you so much! I\u2019m completely new to python and this is so easy to follow and understand. You explained everything so in-depth and nice. Great tutorial!!",
-        "authorDisplayName": "Eirik Hultgreen",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8d0YaxJmHd9Yf35GAd16FOjwE-rgduIB6jlg=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCRAM2uIwu5_of4jdhld4MIQ",
-        "authorChannelId": "UCRAM2uIwu5_of4jdhld4MIQ",
-        "viewerRating": "none",
-        "likeCount": 71,
-        "publishedAt": "2021-10-07T13:52:39Z",
-        "updatedAt": "2021-10-07T13:52:39Z",
-        "id": "UgzAkS-lAuLB0ZoOSwR4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -8415,20 +8415,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "No wonder this is  4 hours long. This is a comprehensive guide for beginners! This actually really helped me. Thanks!\nEdit: I also found it pretty funny that most of the names were references to the office",
-        "textOriginal": "No wonder this is  4 hours long. This is a comprehensive guide for beginners! This actually really helped me. Thanks!\nEdit: I also found it pretty funny that most of the names were references to the office",
-        "authorDisplayName": "Silence43",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8hznh8AbP3fpD9eYM_H8NXuiX2gG0B54quvW7Y=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCsaK9NMutBZCjt4W6B2PMrQ",
-        "authorChannelId": "UCsaK9NMutBZCjt4W6B2PMrQ",
-        "viewerRating": "none",
-        "likeCount": 81,
-        "publishedAt": "2019-03-29T19:20:35Z",
-        "updatedAt": "2019-03-29T22:37:17Z",
-        "id": "Ugz6zo9P8ifn_Mjp2wV4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "I really liked this course. I watched the entire thing. All I can say is that it is incredible and that I learned a lot. Thank you so much!",
         "textOriginal": "I really liked this course. I watched the entire thing. All I can say is that it is incredible and that I learned a lot. Thank you so much!",
         "authorDisplayName": "Rahul The Hydroponics Kid",
@@ -8468,20 +8454,6 @@
         "publishedAt": "2022-05-10T19:45:01Z",
         "updatedAt": "2022-05-10T19:45:01Z",
         "id": "UgxrcwyJrJUu8ybKmP14AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "After a few years of first learning from this video course, I still keep coming back to the content over and over again just because you have made it so easy and simple to follow. I am honestly so grateful and thankful.",
-        "textOriginal": "After a few years of first learning from this video course, I still keep coming back to the content over and over again just because you have made it so easy and simple to follow. I am honestly so grateful and thankful.",
-        "authorDisplayName": "Billal Khwaja",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9UdjT4iDb1K_tJ435iHi1-pAml50vr1J0DTQ=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCipUw-ZqqE_nFyEbY5x3V3g",
-        "authorChannelId": "UCipUw-ZqqE_nFyEbY5x3V3g",
-        "viewerRating": "none",
-        "likeCount": 29,
-        "publishedAt": "2022-06-03T20:38:50Z",
-        "updatedAt": "2022-06-03T20:38:50Z",
-        "id": "UgxPFd7y4vipSrvcSVB4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -8664,6 +8636,34 @@
         "publishedAt": "2021-07-14T16:27:54Z",
         "updatedAt": "2021-07-14T16:27:54Z",
         "id": "UgyQ5XiG4i_HtrEuN-J4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "I\u2019ve spent well over an hour going through the first part of the tutorial and I have to say this is super easy to follow along and is demonstrated perfectly so you don\u2019t miss understand what\u2019s being presented. Thanks for making an extremely in depth video for beginner programmers/coders! I will be watching this video for the next few months..!",
+        "textOriginal": "I\u2019ve spent well over an hour going through the first part of the tutorial and I have to say this is super easy to follow along and is demonstrated perfectly so you don\u2019t miss understand what\u2019s being presented. Thanks for making an extremely in depth video for beginner programmers/coders! I will be watching this video for the next few months..!",
+        "authorDisplayName": "Dylan Dowdy",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8PxD2vK8Dai_RS8YW8uyQIRGuyYgezoctg9g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTF5ss393ohBs7SpR6huclA",
+        "authorChannelId": "UCTF5ss393ohBs7SpR6huclA",
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2019-10-01T16:02:55Z",
+        "updatedAt": "2019-10-01T16:02:55Z",
+        "id": "Ugwq3wQzknEk2B33EeR4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "You are an excellent teacher,  you have explained things so well and to the point, keep up the great work your doing.",
+        "textOriginal": "You are an excellent teacher,  you have explained things so well and to the point, keep up the great work your doing.",
+        "authorDisplayName": "machining projects at a hobby level plus woodworking",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9HHRcLF8I2o7QcWYrXDnuSorSq1L18yp-lJV7g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIdnn_48csoK33XFv-LJbSw",
+        "authorChannelId": "UCIdnn_48csoK33XFv-LJbSw",
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2018-10-22T01:08:11Z",
+        "updatedAt": "2018-10-22T01:08:11Z",
+        "id": "UgxH18GB04CVkzln7nB4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -9857,6 +9857,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "No wonder this is  4 hours long. This is a comprehensive guide for beginners! This actually really helped me. Thanks!\nEdit: I also found it pretty funny that most of the names were references to the office",
+        "textOriginal": "No wonder this is  4 hours long. This is a comprehensive guide for beginners! This actually really helped me. Thanks!\nEdit: I also found it pretty funny that most of the names were references to the office",
+        "authorDisplayName": "Silence43",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8hznh8AbP3fpD9eYM_H8NXuiX2gG0B54quvW7Y=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCsaK9NMutBZCjt4W6B2PMrQ",
+        "authorChannelId": "UCsaK9NMutBZCjt4W6B2PMrQ",
+        "viewerRating": "none",
+        "likeCount": 81,
+        "publishedAt": "2019-03-29T19:20:35Z",
+        "updatedAt": "2019-03-29T22:37:17Z",
+        "id": "Ugz6zo9P8ifn_Mjp2wV4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "How ! really nice video.. Really well explained. I'm not an english native speaker but you speak clearly and i can fully understand you without any subtitles. I really congratulate you for this incredibly nice video.",
         "textOriginal": "How ! really nice video.. Really well explained. I'm not an english native speaker but you speak clearly and i can fully understand you without any subtitles. I really congratulate you for this incredibly nice video.",
         "authorDisplayName": "Aur\u00e9lien Hermant",
@@ -9910,6 +9924,20 @@
         "publishedAt": "2022-08-09T19:09:15Z",
         "updatedAt": "2022-08-09T19:09:15Z",
         "id": "UgyvQI7zyAh0ZixnXHN4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "After a few years of first learning from this video course, I still keep coming back to the content over and over again just because you have made it so easy and simple to follow. I am honestly so grateful and thankful.",
+        "textOriginal": "After a few years of first learning from this video course, I still keep coming back to the content over and over again just because you have made it so easy and simple to follow. I am honestly so grateful and thankful.",
+        "authorDisplayName": "Billal Khwaja",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9UdjT4iDb1K_tJ435iHi1-pAml50vr1J0DTQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCipUw-ZqqE_nFyEbY5x3V3g",
+        "authorChannelId": "UCipUw-ZqqE_nFyEbY5x3V3g",
+        "viewerRating": "none",
+        "likeCount": 29,
+        "publishedAt": "2022-06-03T20:38:50Z",
+        "updatedAt": "2022-06-03T20:38:50Z",
+        "id": "UgxPFd7y4vipSrvcSVB4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -9980,20 +10008,6 @@
         "publishedAt": "2022-01-30T19:24:03Z",
         "updatedAt": "2022-01-30T19:24:17Z",
         "id": "Ugy3iiCDQ2Mtyc80Aod4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "\u2328\ufe0f (0:00) Introduction\r\n\u2328\ufe0f (1:45) Installing Python & PyCharm\r\n\u2328\ufe0f (6:40) Setup & Hello World\r\n\u2328\ufe0f (10:23) Drawing a Shape\r\n\u2328\ufe0f (15:06) Variables & Data Types\r\n\u2328\ufe0f (27:03) Working With Strings\r\n\u2328\ufe0f (38:18) Working With Numbers\r\n\u2328\ufe0f (48:26) Getting Input From Users\r\n\u2328\ufe0f (52:37) Building a Basic Calculator\r\n\u2328\ufe0f (58:27) Mad Libs Game\r\n\u2328\ufe0f (1:03:10) Lists\r\n\u2328\ufe0f (1:10:44) List Functions\r\n\u2328\ufe0f (1:18:57) Tuples\r\n\u2328\ufe0f (1:24:15) Functions\r\n\u2328\ufe0f (1:34:11) Return Statement\r\n\u2328\ufe0f (1:40:06) If Statements\r\n\u2328\ufe0f (1:54:07) If Statements & Comparisons\r\n\u2328\ufe0f (2:00:37) Building a better Calculator\r\n\u2328\ufe0f (2:07:17) Dictionaries\r\n\u2328\ufe0f (2:14:13) While Loop\r\n\u2328\ufe0f (2:20:21) Building a Guessing Game\r\n\u2328\ufe0f (2:32:44) For Loops\r\n\u2328\ufe0f (2:41:20) Exponent Function\r\n\u2328\ufe0f (2:47:13) 2D Lists & Nested Loops\r\n\u2328\ufe0f (2:52:41) Building a Translator\r\n\u2328\ufe0f (3:00:18) Comments\r\n\u2328\ufe0f (3:04:17) Try / Except\r\n\u2328\ufe0f (3:12:41) Reading Files\r\n\u2328\ufe0f (3:21:26) Writing to Files\r\n\u2328\ufe0f (3:28:13) Modules & Pip\r\n\u2328\ufe0f (3:43:56) Classes & Objects\r\n\u2328\ufe0f (3:57:37) Building a Multiple Choice Quiz\r\n\u2328\ufe0f (4:08:28) Object Functions\r\n\u2328\ufe0f (4:12:37) Inheritance\r\n\u2328\ufe0f (4:20:43) Python Interpreter",
-        "textOriginal": "\u2328\ufe0f (0:00) Introduction\r\n\u2328\ufe0f (1:45) Installing Python & PyCharm\r\n\u2328\ufe0f (6:40) Setup & Hello World\r\n\u2328\ufe0f (10:23) Drawing a Shape\r\n\u2328\ufe0f (15:06) Variables & Data Types\r\n\u2328\ufe0f (27:03) Working With Strings\r\n\u2328\ufe0f (38:18) Working With Numbers\r\n\u2328\ufe0f (48:26) Getting Input From Users\r\n\u2328\ufe0f (52:37) Building a Basic Calculator\r\n\u2328\ufe0f (58:27) Mad Libs Game\r\n\u2328\ufe0f (1:03:10) Lists\r\n\u2328\ufe0f (1:10:44) List Functions\r\n\u2328\ufe0f (1:18:57) Tuples\r\n\u2328\ufe0f (1:24:15) Functions\r\n\u2328\ufe0f (1:34:11) Return Statement\r\n\u2328\ufe0f (1:40:06) If Statements\r\n\u2328\ufe0f (1:54:07) If Statements & Comparisons\r\n\u2328\ufe0f (2:00:37) Building a better Calculator\r\n\u2328\ufe0f (2:07:17) Dictionaries\r\n\u2328\ufe0f (2:14:13) While Loop\r\n\u2328\ufe0f (2:20:21) Building a Guessing Game\r\n\u2328\ufe0f (2:32:44) For Loops\r\n\u2328\ufe0f (2:41:20) Exponent Function\r\n\u2328\ufe0f (2:47:13) 2D Lists & Nested Loops\r\n\u2328\ufe0f (2:52:41) Building a Translator\r\n\u2328\ufe0f (3:00:18) Comments\r\n\u2328\ufe0f (3:04:17) Try / Except\r\n\u2328\ufe0f (3:12:41) Reading Files\r\n\u2328\ufe0f (3:21:26) Writing to Files\r\n\u2328\ufe0f (3:28:13) Modules & Pip\r\n\u2328\ufe0f (3:43:56) Classes & Objects\r\n\u2328\ufe0f (3:57:37) Building a Multiple Choice Quiz\r\n\u2328\ufe0f (4:08:28) Object Functions\r\n\u2328\ufe0f (4:12:37) Inheritance\r\n\u2328\ufe0f (4:20:43) Python Interpreter",
-        "authorDisplayName": "Roben Khoury",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9c_md6x-PYJh6cXmXZocDh4ScViprn5glRmBFbZQ=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCtvh2Id_R6O7RSZ2rra0sSQ",
-        "authorChannelId": "UCtvh2Id_R6O7RSZ2rra0sSQ",
-        "viewerRating": "none",
-        "likeCount": 15,
-        "publishedAt": "2019-08-16T08:38:15Z",
-        "updatedAt": "2019-08-16T08:38:15Z",
-        "id": "UgyD70dup4h57JzxNRV4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -11187,17 +11201,17 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "That exponent function was preety useless we can do it just by :\n\nnum = float(input(\"Enter num: \"))\r\npower = float(input(\"Enter the power: \"))\r\nprint(num ** power)\n\nSo why lengthy code \u0ca0_\u0ca0",
-        "textOriginal": "That exponent function was preety useless we can do it just by :\n\nnum = float(input(\"Enter num: \"))\r\npower = float(input(\"Enter the power: \"))\r\nprint(num ** power)\n\nSo why lengthy code \u0ca0_\u0ca0",
-        "authorDisplayName": "3some",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/lROA-TaajkGYz60gUeiIrASa4XkONAyPTYUJrIKVkHRHKdlXJ4O7fCBJufjMWO-oz3t3TGlzr_A=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCF8LAAtr7y4u7wwaCQZPiWQ",
-        "authorChannelId": "UCF8LAAtr7y4u7wwaCQZPiWQ",
+        "textDisplay": "\u2328\ufe0f (0:00) Introduction\r\n\u2328\ufe0f (1:45) Installing Python & PyCharm\r\n\u2328\ufe0f (6:40) Setup & Hello World\r\n\u2328\ufe0f (10:23) Drawing a Shape\r\n\u2328\ufe0f (15:06) Variables & Data Types\r\n\u2328\ufe0f (27:03) Working With Strings\r\n\u2328\ufe0f (38:18) Working With Numbers\r\n\u2328\ufe0f (48:26) Getting Input From Users\r\n\u2328\ufe0f (52:37) Building a Basic Calculator\r\n\u2328\ufe0f (58:27) Mad Libs Game\r\n\u2328\ufe0f (1:03:10) Lists\r\n\u2328\ufe0f (1:10:44) List Functions\r\n\u2328\ufe0f (1:18:57) Tuples\r\n\u2328\ufe0f (1:24:15) Functions\r\n\u2328\ufe0f (1:34:11) Return Statement\r\n\u2328\ufe0f (1:40:06) If Statements\r\n\u2328\ufe0f (1:54:07) If Statements & Comparisons\r\n\u2328\ufe0f (2:00:37) Building a better Calculator\r\n\u2328\ufe0f (2:07:17) Dictionaries\r\n\u2328\ufe0f (2:14:13) While Loop\r\n\u2328\ufe0f (2:20:21) Building a Guessing Game\r\n\u2328\ufe0f (2:32:44) For Loops\r\n\u2328\ufe0f (2:41:20) Exponent Function\r\n\u2328\ufe0f (2:47:13) 2D Lists & Nested Loops\r\n\u2328\ufe0f (2:52:41) Building a Translator\r\n\u2328\ufe0f (3:00:18) Comments\r\n\u2328\ufe0f (3:04:17) Try / Except\r\n\u2328\ufe0f (3:12:41) Reading Files\r\n\u2328\ufe0f (3:21:26) Writing to Files\r\n\u2328\ufe0f (3:28:13) Modules & Pip\r\n\u2328\ufe0f (3:43:56) Classes & Objects\r\n\u2328\ufe0f (3:57:37) Building a Multiple Choice Quiz\r\n\u2328\ufe0f (4:08:28) Object Functions\r\n\u2328\ufe0f (4:12:37) Inheritance\r\n\u2328\ufe0f (4:20:43) Python Interpreter",
+        "textOriginal": "\u2328\ufe0f (0:00) Introduction\r\n\u2328\ufe0f (1:45) Installing Python & PyCharm\r\n\u2328\ufe0f (6:40) Setup & Hello World\r\n\u2328\ufe0f (10:23) Drawing a Shape\r\n\u2328\ufe0f (15:06) Variables & Data Types\r\n\u2328\ufe0f (27:03) Working With Strings\r\n\u2328\ufe0f (38:18) Working With Numbers\r\n\u2328\ufe0f (48:26) Getting Input From Users\r\n\u2328\ufe0f (52:37) Building a Basic Calculator\r\n\u2328\ufe0f (58:27) Mad Libs Game\r\n\u2328\ufe0f (1:03:10) Lists\r\n\u2328\ufe0f (1:10:44) List Functions\r\n\u2328\ufe0f (1:18:57) Tuples\r\n\u2328\ufe0f (1:24:15) Functions\r\n\u2328\ufe0f (1:34:11) Return Statement\r\n\u2328\ufe0f (1:40:06) If Statements\r\n\u2328\ufe0f (1:54:07) If Statements & Comparisons\r\n\u2328\ufe0f (2:00:37) Building a better Calculator\r\n\u2328\ufe0f (2:07:17) Dictionaries\r\n\u2328\ufe0f (2:14:13) While Loop\r\n\u2328\ufe0f (2:20:21) Building a Guessing Game\r\n\u2328\ufe0f (2:32:44) For Loops\r\n\u2328\ufe0f (2:41:20) Exponent Function\r\n\u2328\ufe0f (2:47:13) 2D Lists & Nested Loops\r\n\u2328\ufe0f (2:52:41) Building a Translator\r\n\u2328\ufe0f (3:00:18) Comments\r\n\u2328\ufe0f (3:04:17) Try / Except\r\n\u2328\ufe0f (3:12:41) Reading Files\r\n\u2328\ufe0f (3:21:26) Writing to Files\r\n\u2328\ufe0f (3:28:13) Modules & Pip\r\n\u2328\ufe0f (3:43:56) Classes & Objects\r\n\u2328\ufe0f (3:57:37) Building a Multiple Choice Quiz\r\n\u2328\ufe0f (4:08:28) Object Functions\r\n\u2328\ufe0f (4:12:37) Inheritance\r\n\u2328\ufe0f (4:20:43) Python Interpreter",
+        "authorDisplayName": "Roben Khoury",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9c_md6x-PYJh6cXmXZocDh4ScViprn5glRmBFbZQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtvh2Id_R6O7RSZ2rra0sSQ",
+        "authorChannelId": "UCtvh2Id_R6O7RSZ2rra0sSQ",
         "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-08-28T21:45:52Z",
-        "updatedAt": "2022-08-28T21:45:52Z",
-        "id": "UgwU7ugKKrvt3QoLHc54AaABAg"
+        "likeCount": 15,
+        "publishedAt": "2019-08-16T08:38:15Z",
+        "updatedAt": "2019-08-16T08:38:15Z",
+        "id": "UgyD70dup4h57JzxNRV4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -11226,34 +11240,6 @@
         "publishedAt": "2020-05-24T04:12:41Z",
         "updatedAt": "2020-05-24T04:12:41Z",
         "id": "UgwOTeEcSYgpMPU5zPx4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "I\u2019ve spent well over an hour going through the first part of the tutorial and I have to say this is super easy to follow along and is demonstrated perfectly so you don\u2019t miss understand what\u2019s being presented. Thanks for making an extremely in depth video for beginner programmers/coders! I will be watching this video for the next few months..!",
-        "textOriginal": "I\u2019ve spent well over an hour going through the first part of the tutorial and I have to say this is super easy to follow along and is demonstrated perfectly so you don\u2019t miss understand what\u2019s being presented. Thanks for making an extremely in depth video for beginner programmers/coders! I will be watching this video for the next few months..!",
-        "authorDisplayName": "Dylan Dowdy",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8PxD2vK8Dai_RS8YW8uyQIRGuyYgezoctg9g=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCTF5ss393ohBs7SpR6huclA",
-        "authorChannelId": "UCTF5ss393ohBs7SpR6huclA",
-        "viewerRating": "none",
-        "likeCount": 10,
-        "publishedAt": "2019-10-01T16:02:55Z",
-        "updatedAt": "2019-10-01T16:02:55Z",
-        "id": "Ugwq3wQzknEk2B33EeR4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "You are an excellent teacher,  you have explained things so well and to the point, keep up the great work your doing.",
-        "textOriginal": "You are an excellent teacher,  you have explained things so well and to the point, keep up the great work your doing.",
-        "authorDisplayName": "machining projects at a hobby level plus woodworking",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9HHRcLF8I2o7QcWYrXDnuSorSq1L18yp-lJV7g=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCIdnn_48csoK33XFv-LJbSw",
-        "authorChannelId": "UCIdnn_48csoK33XFv-LJbSw",
-        "viewerRating": "none",
-        "likeCount": 10,
-        "publishedAt": "2018-10-22T01:08:11Z",
-        "updatedAt": "2018-10-22T01:08:11Z",
-        "id": "UgxH18GB04CVkzln7nB4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -11691,6 +11677,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "That exponent function was preety useless we can do it just by :\n\nnum = float(input(\"Enter num: \"))\r\npower = float(input(\"Enter the power: \"))\r\nprint(num ** power)\n\nSo why lengthy code \u0ca0_\u0ca0",
+        "textOriginal": "That exponent function was preety useless we can do it just by :\n\nnum = float(input(\"Enter num: \"))\r\npower = float(input(\"Enter the power: \"))\r\nprint(num ** power)\n\nSo why lengthy code \u0ca0_\u0ca0",
+        "authorDisplayName": "3some",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/lROA-TaajkGYz60gUeiIrASa4XkONAyPTYUJrIKVkHRHKdlXJ4O7fCBJufjMWO-oz3t3TGlzr_A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCF8LAAtr7y4u7wwaCQZPiWQ",
+        "authorChannelId": "UCF8LAAtr7y4u7wwaCQZPiWQ",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-08-28T21:45:52Z",
+        "updatedAt": "2022-08-28T21:45:52Z",
+        "id": "UgwU7ugKKrvt3QoLHc54AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "for the triagnle why arent my underscores full line instead theyre like this  _ _ _ _ _.",
         "textOriginal": "for the triagnle why arent my underscores full line instead theyre like this  _ _ _ _ _.",
         "authorDisplayName": "Pravesh Maharaj",
@@ -12041,20 +12041,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "I have a question ,i'm a windows user. may I learn it ?",
-        "textOriginal": "I have a question ,i'm a windows user. may I learn it ?",
-        "authorDisplayName": "Nickyyy",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9DA4dd310md4JA0gpBnsqAoKcqoP-RufJgN5SHnKxnJhRNYFhu4pyGFB49h-_y=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCju10QePD00xyIuifVYHZNw",
-        "authorChannelId": "UCju10QePD00xyIuifVYHZNw",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-10-12T10:29:49Z",
-        "updatedAt": "2022-10-12T10:29:49Z",
-        "id": "UgyRKq65RKCctBbnbFB4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "at 2:28:42 why is out_of_guess in brackets",
         "textOriginal": "at 2:28:42 why is out_of_guess in brackets",
         "authorDisplayName": "AK",
@@ -12276,6 +12262,20 @@
         "publishedAt": "2022-08-04T09:22:50Z",
         "updatedAt": "2022-08-04T09:22:50Z",
         "id": "Ugy3yV582nHJWoXzaWR4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "I have a question ,i'm a windows user. may I learn it ?",
+        "textOriginal": "I have a question ,i'm a windows user. may I learn it ?",
+        "authorDisplayName": "Nickyyy",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9DA4dd310md4JA0gpBnsqAoKcqoP-RufJgN5SHnKxnJhRNYFhu4pyGFB49h-_y=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCju10QePD00xyIuifVYHZNw",
+        "authorChannelId": "UCju10QePD00xyIuifVYHZNw",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-10-12T10:29:49Z",
+        "updatedAt": "2022-10-12T10:29:49Z",
+        "id": "UgyRKq65RKCctBbnbFB4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -12867,17 +12867,31 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "Wow! He explains things so well! I cannot stop watching :)",
-        "textOriginal": "Wow! He explains things so well! I cannot stop watching :)",
-        "authorDisplayName": "Chris Pap",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-J1gnijaF4odppePIKZHwe2i03N6ZQcN0sNJmGNw=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCVAUKcepaO5AS4iQxuHy4DA",
-        "authorChannelId": "UCVAUKcepaO5AS4iQxuHy4DA",
+        "textDisplay": "Thanks for teaching us this \nvaluable information for free.\nAppreciate it.",
+        "textOriginal": "Thanks for teaching us this \nvaluable information for free.\nAppreciate it.",
+        "authorDisplayName": "Ronda Gatts",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_-Ivw48y8RwOZqcI-WHVy04yYSLVIOQf5_4A=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZR0iYUrbEOI1fZpQWHfmkg",
+        "authorChannelId": "UCZR0iYUrbEOI1fZpQWHfmkg",
+        "viewerRating": "none",
+        "likeCount": 8,
+        "publishedAt": "2018-12-14T18:31:26Z",
+        "updatedAt": "2018-12-14T18:31:26Z",
+        "id": "UgwV0qxgjLdRJYAL3zV4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "Amazing tutorial!\nI got a new job, starting next Sunday. Switching from Automation testing in C# to Automation Testing in Python :)\nThis tutorial helped me get the basic idea of Python.\nThanks!",
+        "textOriginal": "Amazing tutorial!\nI got a new job, starting next Sunday. Switching from Automation testing in C# to Automation Testing in Python :)\nThis tutorial helped me get the basic idea of Python.\nThanks!",
+        "authorDisplayName": "Eric Blanc",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-m2LcE3ceT_7ZJqFFN66H3sgPRr8Dhah9Ehylv=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UClcOOJUCp-SAGjJ4jRF7g1Q",
+        "authorChannelId": "UClcOOJUCp-SAGjJ4jRF7g1Q",
         "viewerRating": "none",
         "likeCount": 7,
-        "publishedAt": "2019-03-18T19:58:05Z",
-        "updatedAt": "2019-03-18T19:58:05Z",
-        "id": "UgwKe0neI1CIBVwLgPN4AaABAg"
+        "publishedAt": "2019-03-29T18:49:47Z",
+        "updatedAt": "2019-03-29T18:49:47Z",
+        "id": "Ugxii7qxSaiZQ4VFXnZ4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -13973,20 +13987,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "32:50",
-        "textOriginal": "32:50",
-        "authorDisplayName": "??????????",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/5jDjsjdBDa59JyQmB-vXbu7p4mUwppcioQBsC0Hji15Lb93HKkyigZqeJwM_oz7lEh2kfEkdFA=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UC6Q61YFZVvbafBHA_1JZtMg",
-        "authorChannelId": "UC6Q61YFZVvbafBHA_1JZtMg",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-07-11T18:59:07Z",
-        "updatedAt": "2022-07-11T18:59:07Z",
-        "id": "UgykJma0kUhNwCkoVml4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "For anyone whose beginning this course, I would HIGHLY recommend skipping to the \"Comments\" Chapter IMMEDIATELY  after you've installed Pycharm so that you can annotate your code as you learn.",
         "textOriginal": "For anyone whose beginning this course, I would HIGHLY recommend skipping to the \"Comments\" Chapter IMMEDIATELY  after you've installed Pycharm so that you can annotate your code as you learn.",
         "authorDisplayName": "Amaray Love",
@@ -14253,17 +14253,45 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "Thank you for providing this great content! I started learning python back in 2016 and have learned from youtube and online tutorials and actually now create python applications in my current job.  I actually started my own channel to pay if forward for everyone else.  Programming and coding should be a free skill that everyone around the world who has interest should be able to learn for free.",
-        "textOriginal": "Thank you for providing this great content! I started learning python back in 2016 and have learned from youtube and online tutorials and actually now create python applications in my current job.  I actually started my own channel to pay if forward for everyone else.  Programming and coding should be a free skill that everyone around the world who has interest should be able to learn for free.",
-        "authorDisplayName": "Coding4Fun",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8QPbzgImbPOz1nAKrskluqfCAZtTFupCaAs2VZ=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCX27FQwrHKwdAcPe_VB_JLw",
-        "authorChannelId": "UCX27FQwrHKwdAcPe_VB_JLw",
+        "textDisplay": "half way through, really getting it, really well presented and articulated. Very impressed",
+        "textOriginal": "half way through, really getting it, really well presented and articulated. Very impressed",
+        "authorDisplayName": "Henry Baumeister",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_rOHJ1IVjfw6EAr_xvXuZAz2gopTlQX0tk2vbb=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwJOWkNZoz_EPY5xEeiWKMw",
+        "authorChannelId": "UCwJOWkNZoz_EPY5xEeiWKMw",
         "viewerRating": "none",
         "likeCount": 5,
-        "publishedAt": "2020-06-04T19:14:27Z",
-        "updatedAt": "2020-06-04T19:14:27Z",
-        "id": "UgyMbpXz3SjrQaLaytl4AaABAg"
+        "publishedAt": "2019-06-27T10:52:45Z",
+        "updatedAt": "2019-06-27T10:52:45Z",
+        "id": "UgztSYwl4IRK91aXSGJ4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "I love Python. Such a powerful programming language!",
+        "textOriginal": "I love Python. Such a powerful programming language!",
+        "authorDisplayName": "PythonDev Warrior",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9wkhoY6FK1rIjuwTGnn7pJEWYo-2psGhVn-Dcm=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIhT15CwfTJFGpfeufuxrZw",
+        "authorChannelId": "UCIhT15CwfTJFGpfeufuxrZw",
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2020-08-05T20:04:05Z",
+        "updatedAt": "2020-08-05T20:04:05Z",
+        "id": "UgwxisYmCpgc04a6SA94AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "30:00 half an hour in and I can already see why Python is considered such an intuitive language. No hassle in designating and calling a variable, like dunno, using a function like \"Var.Varname\" or something like that. You just give the variable a name and then = and Python gets it. And to call it, you just put the name, no big deal. Even in something simple as that I can already see why Python is considered easy to learn and use.",
+        "textOriginal": "30:00 half an hour in and I can already see why Python is considered such an intuitive language. No hassle in designating and calling a variable, like dunno, using a function like \"Var.Varname\" or something like that. You just give the variable a name and then = and Python gets it. And to call it, you just put the name, no big deal. Even in something simple as that I can already see why Python is considered easy to learn and use.",
+        "authorDisplayName": "Ice Cold",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9vUmZs8usyBbWJ5zeuhRUzd3CJ1cpzxGn_n5_xSw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCuGdfITwEyqJv_KOpbMFIXQ",
+        "authorChannelId": "UCuGdfITwEyqJv_KOpbMFIXQ",
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2019-12-22T17:24:46Z",
+        "updatedAt": "2019-12-22T17:24:46Z",
+        "id": "UgyzHW1UENPlQjZWNUN4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -14572,20 +14600,6 @@
         "publishedAt": "2022-07-02T01:48:37Z",
         "updatedAt": "2022-07-02T01:48:37Z",
         "id": "UgwaqED4drROlaqYD5V4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "Do I have to memroize all the code?",
-        "textOriginal": "Do I have to memroize all the code?",
-        "authorDisplayName": "Khaled Sorour",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu87PHsvyCpgN54QJvjZW8PnV6ZUk26_7iBl6Q=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCeHuAyQncJbAczDGCETjqkg",
-        "authorChannelId": "UCeHuAyQncJbAczDGCETjqkg",
-        "viewerRating": "none",
-        "likeCount": 1,
-        "publishedAt": "2022-07-02T22:13:35Z",
-        "updatedAt": "2022-07-02T22:13:35Z",
-        "id": "UgxS8Y3MUpdtKu5GwT94AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -15370,19 +15384,5 @@
         "publishedAt": "2022-07-06T03:34:21Z",
         "updatedAt": "2022-07-06T03:34:21Z",
         "id": "Ugwxo2cdP7JLcJetNVF4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "Mike the great help man",
-        "textOriginal": "Mike the great help man",
-        "authorDisplayName": "Kevin Flores",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/1IzJiIup5Iv2Ywi8cDCjppdiE5mdW4mXAhmzfSf0rJfp8I5qGnDYpDrFGeeiB1pMXlGjKqAM_Qw=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCDARvVppr00pJWhjUDSYpJg",
-        "authorChannelId": "UCDARvVppr00pJWhjUDSYpJg",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-07-05T05:03:57Z",
-        "updatedAt": "2022-07-05T05:03:57Z",
-        "id": "UgxKiyHVv61MpoMYzgF4AaABAg"
     }
 ]
