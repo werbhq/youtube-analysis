@@ -35,7 +35,7 @@ class SpamDetection:
             data["CONTENT"] = data["CONTENT"].apply(self.__cleanComment)
             data = data.drop_duplicates(subset="CONTENT")
 
-            x_train, x_test, y_train, y_test = train_test_split(data['CONTENT'], data['SPAM'], test_size=0.1, random_state=45)
+            x_train, x_test, y_train, y_test = train_test_split(data['CONTENT'], data['SPAM'], test_size=0.1, random_state=0)
             self.__vectorizer = TfidfVectorizer()
             x_train = self.__vectorizer.fit_transform(x_train)
 
