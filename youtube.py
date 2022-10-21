@@ -1,5 +1,6 @@
 from api.comment import importComments, fetchComments
 from api.captions import importCaptions, fetchCaptions
+from model.SpamDetection import SpamDetection
 
 # Only use getComments() once. Then use importComments() for testing
 TESTING = True
@@ -16,8 +17,12 @@ def main():
         comments = fetchComments(videoId)
         captions = fetchCaptions(videoId)
 
-    print(comments[0])
-    print(captions.keys())
+    # print(comments[0])
+    # print(captions.keys())
+
+    spamDetector = SpamDetection()
+    print(f'Model Accurary Score: {spamDetector.score}')
+    spamDetector.processComments(comments)
 
 
 if __name__ == "__main__":
