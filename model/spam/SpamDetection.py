@@ -1,64 +1,70 @@
 import os
 import pandas as pd
-import numpy as np
 import json
-from sklearn.feature_extraction.text import CountVectorizer
+import pickle
+import re
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import MultinomialNB
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn import svm
+import wordninja
 
 FILE_PATH = os.path.join('temp', 'spam_comments.json')
+DATASET_PATH = os.path.join("model", "spam", "data", "data_set.csv")
+MODEL_PATH = os.path.join("model", "spam", "data", "model.bin")
+VECTORIZER_PATH = os.path.join("model", "spam", "data", "vectorizer.bin")
+SCORE_PATH = os.path.join("model", "spam", "data", "score.bin")
 
 
 class SpamDetection:
     score: int
     __model: MultinomialNB
-    __cv: CountVectorizer
+    __vectorizer: TfidfVectorizer
 
-    def __init__(self) -> None:
-        MODEL_PATH = os.path.join("model", "spam", "spam.csv")
-        data = pd.read_csv(MODEL_PATH)
+    def __init__(self):
+        if os.path.exists(MODEL_PATH) and os.path.exists(VECTORIZER_PATH) and os.path.exists(SCORE_PATH):
+            # load model and vectorizer
+            self.__model = pickle.load(open(MODEL_PATH, 'rb'))
+            self.__vectorizer = pickle.load(open(VECTORIZER_PATH, 'rb'))
+            self.score = pickle.load(open(SCORE_PATH, 'rb'))
+        else:
+            data = pd.read_csv(DATASET_PATH)
 
-        data = data[["CONTENT", "SPAM"]]
-        data["SPAM"] = data["SPAM"].map({0: False,  1: True})
+            data = data[["CONTENT", "SPAM"]]
+            data["SPAM"] = data["SPAM"].map({0: False,  1: True})
+            data["CONTENT"] = data["CONTENT"].apply(self.__cleanComment)
+            data = data.drop_duplicates(subset="CONTENT")
 
-        x = np.array(data["CONTENT"])
-        y = np.array(data["SPAM"])
+            x_train, x_test, y_train, y_test = train_test_split(data['CONTENT'], data['SPAM'], test_size=0.1, random_state=45)
+            self.__vectorizer = TfidfVectorizer()
+            x_train = self.__vectorizer.fit_transform(x_train)
 
-        """
-        Counte Vectorization
-        --------------------
-        Say there are 3 sentences:-
-        0 apple is good
-        1 apple is bad
-        2 apple apple you
+            # save vectorizer file
+            pickle.dump(self.__vectorizer, open(VECTORIZER_PATH, 'wb'))
 
-        now countVectorization o/p
-        ----------------------------
-            apple bad good is you    (columns are alphabetically sorted)
-        0   1     0    1   1    0
-        1   1     1    0   1    0
-        2   2     0    0   0    1
-        """
-        self.__cv = CountVectorizer()
-        x = self.__cv.fit_transform(x)
+            # train model on data
+            self.__model = svm.SVC(C=1000)
+            self.__model.fit(x_train, y_train)
 
-        xtrain, xtest, ytrain, ytest = train_test_split(x, y, test_size=0.2, random_state=42)
+            # save ML model
+            pickle.dump(self.__model, open(MODEL_PATH, 'wb'))
 
-        self.__model = MultinomialNB()
-        self.__model.fit(xtrain, ytrain)
+            # Save score
+            x_test = self.__vectorizer.transform(x_test)
+            self.score = self.__model.score(x_test, y_test)
+            pickle.dump(self.score, open(SCORE_PATH, 'wb'))
 
-        self.score = self.__model.score(xtest, ytest)
+    def __cleanComment(self, s: str):
+        s = re.sub(r'[^A-Za-z0-9 ]+', '', s)
+        s = ' '.join(wordninja.split(s))
+        s = s.lower()
+        return s
 
     def __checkSpam(self, comment: str):
-        """
-        Input comment: apple is great
-        Example: countVectorization o/p
-        ----------------------------
-            apple bad good is you
-        0   1     0    0   1    0
-        """
-        data = self.__cv.transform([comment]).toarray()  # This will generate the mapping to previously set CV
-        return self.__model.predict(data)[0]
+        clean_comment = self.__cleanComment(comment)
+        comment_transformed = self.__vectorizer.transform([clean_comment])
+        spam = self.__model.predict(comment_transformed)[0]
+        return spam == 1
 
     def processComments(self, comments: list):
         """
