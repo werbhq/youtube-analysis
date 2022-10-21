@@ -1,5 +1,5 @@
-from api.comment import importComments, getComments
-from api.captions import importCaptions, getCaptions
+from api.comment import importComments, fetchComments
+from api.captions import importCaptions, fetchCaptions
 
 # Only use getComments() once. Then use importComments() for testing
 TESTING = True
@@ -13,8 +13,8 @@ def main():
         comments = importComments()
         captions = importCaptions()
     else:
-        comments = getComments(videoId)
-        captions = getCaptions(videoId)
+        comments = fetchComments(videoId)
+        captions = fetchCaptions(videoId)
 
     print(comments[0])
     print(captions.keys())

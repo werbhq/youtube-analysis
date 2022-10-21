@@ -15,7 +15,7 @@ def importCaptions():
         return comments
 
 
-def getCaptions(youtubeId: str):
+def fetchCaptions(youtubeId: str):
     """
     Returns a dictionary of caption unqiue words with count. Can be empty if no subtitle for english found
     """
