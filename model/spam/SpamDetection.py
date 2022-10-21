@@ -15,7 +15,7 @@ class SpamDetection:
     __cv: CountVectorizer
 
     def __init__(self) -> None:
-        MODEL_PATH = os.path.join("model", "data", "spam.csv")
+        MODEL_PATH = os.path.join("model", "spam", "spam.csv")
         data = pd.read_csv(MODEL_PATH)
 
         data = data[["CONTENT", "SPAM"]]
