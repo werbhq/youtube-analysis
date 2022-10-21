@@ -21,13 +21,14 @@ class SpamDetection:
     __model: MultinomialNB
     __vectorizer: TfidfVectorizer
 
-    def __init__(self):
-        if os.path.exists(MODEL_PATH) and os.path.exists(VECTORIZER_PATH) and os.path.exists(SCORE_PATH):
-            # load model and vectorizer
+    def __init__(self, retrain_model=False):
+        if not retrain_model and (os.path.exists(MODEL_PATH) and os.path.exists(VECTORIZER_PATH) and os.path.exists(SCORE_PATH)):
+            print('Loading model')
             self.__model = pickle.load(open(MODEL_PATH, 'rb'))
             self.__vectorizer = pickle.load(open(VECTORIZER_PATH, 'rb'))
             self.score = pickle.load(open(SCORE_PATH, 'rb'))
         else:
+            print('Generating model')
             data = pd.read_csv(DATASET_PATH)
 
             data = data[["CONTENT", "SPAM"]]
