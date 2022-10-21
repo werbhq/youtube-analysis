@@ -9,10 +9,12 @@ from sklearn.svm import SVC
 import wordninja
 
 FILE_PATH = os.path.join('temp', 'spam_comments.json')
-DATASET_PATH = os.path.join("model", "spam", "data", "data_set.csv")
-MODEL_PATH = os.path.join("model", "spam", "data", "model.bin")
-VECTORIZER_PATH = os.path.join("model", "spam", "data", "vectorizer.bin")
-SCORE_PATH = os.path.join("model", "spam", "data", "score.bin")
+
+DIR_PATH = os.path.dirname(os.path.relpath(__file__))
+DATASET_PATH = os.path.join(DIR_PATH, "data", "data_set.csv")
+MODEL_PATH = os.path.join(DIR_PATH,  "data", "model.bin")
+VECTORIZER_PATH = os.path.join(DIR_PATH, "data", "vectorizer.bin")
+SCORE_PATH = os.path.join(DIR_PATH, "data", "score.bin")
 
 
 class SpamDetection:
