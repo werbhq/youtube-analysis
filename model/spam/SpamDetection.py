@@ -4,9 +4,8 @@ import json
 import pickle
 import re
 from sklearn.model_selection import train_test_split
-from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn import svm
+from sklearn.svm import SVC
 import wordninja
 
 FILE_PATH = os.path.join('temp', 'spam_comments.json')
@@ -18,7 +17,7 @@ SCORE_PATH = os.path.join("model", "spam", "data", "score.bin")
 
 class SpamDetection:
     score: int
-    __model: MultinomialNB
+    __model: SVC
     __vectorizer: TfidfVectorizer
 
     def __init__(self, retrain_model=False):
@@ -44,7 +43,7 @@ class SpamDetection:
             pickle.dump(self.__vectorizer, open(VECTORIZER_PATH, 'wb'))
 
             # train model on data
-            self.__model = svm.SVC(C=1000)
+            self.__model = SVC(C=1000)
             self.__model.fit(x_train, y_train)
 
             # save ML model
