@@ -7,23 +7,19 @@ FILE_PATH = 'response.json'
 
 def process_comments(response_items):
     comments = []
+
     for res in response_items:
-        # for reply comments
+        comment = {}
+        comment['snippet'] = res['snippet']['topLevelComment']['snippet']
+        comment['snippet']['id'] = res['snippet']['topLevelComment']['id']
 
-        # if 'replies' in res.keys():
-        #     for reply in res['replies']['comments']:
-        #         comment = reply['snippet']
-        #         comment['commentId'] = reply['id']
-        #         comments.append(comment)
+        data = comment['snippet']
+        data['authorChannelId'] = data['authorChannelId']['value']
+        del data['canRate']
 
-        # for non reply comments
-        if 'replies' not in res.keys():
-            comment = {}
-            comment['snippet'] = res['snippet']['topLevelComment']['snippet']
-            comment['snippet']['parentId'] = None
-            comment['snippet']['commentId'] = res['snippet']['topLevelComment']['id']
-            comments.append(comment['snippet'])
+        comments.append(data)
 
+    comments.sort(key=lambda x: x['likeCount'], reverse=True)
     return comments
 
 
