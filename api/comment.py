@@ -47,7 +47,7 @@ def fetchComments(youtubeVideoId: str, MAX_COMMENT=1000):
             pageToken=response['nextPageToken'],
             textFormat='plainText',
             order='relevance',
-            maxResults=100,  # 100 Is MAX limit possible, default is 20
+            maxResults=MAX_COMMENT - len(comment_list),
         )
         response = request.execute()
         comment_list.extend(process_comments(response['items']))
