@@ -20,56 +20,62 @@ SCORE_PATH = os_join(DIR_PATH, "data", "score.bin")
 
 
 class SpamDetection:
+    """
+    SVC Spam Detection model to detect spam with an accuracy of 97.8%
+    """
     score: int
     __model: SVC
     __vectorizer: TfidfVectorizer
 
     def __init__(self, retrain_model=False):
         if not retrain_model and (path_exists(MODEL_PATH) and path_exists(VECTORIZER_PATH) and path_exists(SCORE_PATH)):
+            # Loads the model if retrain_model = False and the model data files exist.
             print('Loading model')
             self.__model = pickle.load(open(MODEL_PATH, 'rb'))
             self.__vectorizer = pickle.load(open(VECTORIZER_PATH, 'rb'))
             self.score = pickle.load(open(SCORE_PATH, 'rb'))
         else:
+            # Generates model if retrain_model = True or the model data files do not exist.
             print('Generating model')
             data = pd.read_csv(DATASET_PATH)
 
             data = data[["CONTENT", "SPAM"]]
             data["SPAM"] = data["SPAM"].map({0: False,  1: True})
-            data["CONTENT"] = data["CONTENT"].apply(self.__cleanComment)
+            data["CONTENT"] = data["CONTENT"].apply(self.__clean_comment)
             data = data.drop_duplicates(subset="CONTENT")
 
             x_train, x_test, y_train, y_test = train_test_split(data['CONTENT'], data['SPAM'], test_size=0.1, random_state=11)
+
             self.__vectorizer = TfidfVectorizer(stop_words='english', lowercase=True)
             x_train = self.__vectorizer.fit_transform(x_train)
 
-            # save vectorizer file
-            pickle.dump(self.__vectorizer, open(VECTORIZER_PATH, 'wb'))
-
-            # train model on data
+            # Train model on data
             self.__model = SVC(C=1000)
             self.__model.fit(x_train, y_train)
-
-            # save ML model
-            pickle.dump(self.__model, open(MODEL_PATH, 'wb'))
 
             # Save score
             x_test = self.__vectorizer.transform(x_test)
             self.score = self.__model.score(x_test, y_test)
+
+            # Save model data for reimport next time
+            pickle.dump(self.__vectorizer, open(VECTORIZER_PATH, 'wb'))
+            pickle.dump(self.__model, open(MODEL_PATH, 'wb'))
             pickle.dump(self.score, open(SCORE_PATH, 'wb'))
 
-    def __cleanComment(self, comment: str):
+    def __clean_comment(self, comment: str):
         comment = re.sub(r'[^A-Za-z0-9 ]+', '', comment)  # Remove special chars
         comment = ' '.join(wordninja.split(comment))  # convert 'h-e-y' type words to 'hey'
         comment = comment.lower()
         return comment
 
-    def processComments(self, comments: list):
+    def process_comments(self, comments: list):
         """
-        Checks whether the given comment in comments is a spam or not. Returns non-spam comments
+        Checks whether the given comment in comments is a spam or not. 
+
+        Returns non-spam comments
         """
         comments_df = pd.DataFrame(comments)
-        comments_cleaned = comments_df['textDisplay'].apply(self.__cleanComment)
+        comments_cleaned = comments_df['textDisplay'].apply(self.__clean_comment)
         comment_transformed = self.__vectorizer.transform(comments_cleaned)
         comments_df['spam'] = self.__model.predict(comment_transformed)
 

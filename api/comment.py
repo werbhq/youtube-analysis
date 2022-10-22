@@ -1,6 +1,6 @@
 import os
 import json
-from api import youtubeApi
+from api import youtube_api
 
 FILE_PATH = os.path.join('data', 'comments.json')
 
@@ -8,6 +8,7 @@ FILE_PATH = os.path.join('data', 'comments.json')
 def process_comments(response_items):
     comments = []
 
+    # Extracts top level comments and its id
     for res in response_items:
         comment = {}
         comment['snippet'] = res['snippet']['topLevelComment']['snippet']
@@ -23,25 +24,29 @@ def process_comments(response_items):
     return comments
 
 
-def importComments():
+def import_comments():
     """
-    Imports the comments from response.json and returns it as list
+    Imports the comments from response.json
+
+    Returns (list) : comments
     """
     with open(FILE_PATH, 'r') as f:
         comments: list = json.loads(f.read())
         return comments
 
 
-def fetchComments(youtubeVideoId: str, MAX_COMMENT=1500):
+def fetch_comments(youtubeVideoId: str, MAX_COMMENT=1500):
     """
-    Returns a list of MAX_COMMENT number of comments. Saves the comments in response.json
-    """
-    comment_list = []
+    Fetches comments from {youtubeVideoId} with {MAX_COMMENT} limit and saves the comments in response.json
 
+    Returns (list) : MAX_COMMENT number of comments.
+    """
+
+    comment_list = []
     response = {'nextPageToken': ''}
 
     while (response.get('nextPageToken', None) != None and len(comment_list) < MAX_COMMENT):
-        request = youtubeApi.commentThreads().list(
+        request = youtube_api.commentThreads().list(
             part="snippet",
             videoId=youtubeVideoId,
             pageToken=response['nextPageToken'],
