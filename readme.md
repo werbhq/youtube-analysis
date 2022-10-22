@@ -4,6 +4,8 @@
 
 `python -m venv env`
 
+Open terminal. You should see (env). Then
+
 `pip install -r requirements.txt`
 
 ---
@@ -11,6 +13,11 @@
 ## After Installation
 
 - Copy `.env` file to directory having `youtube.py`
+
+  ```bash
+  KEY=
+  ```
+
 - Open terminal. U should see a (env) symbol
 - Run the code by `python youtube.py`
 

@@ -1,11 +1,11 @@
 import os
 import googleapiclient.discovery
+from dotenv import load_dotenv
+
+load_dotenv()
 
 API_NAME = "youtube"
 API_VER = "v3"
+API_KEY = os.environ["API_KEY"]
 
-# Reading .env file
-with open('.env', 'r') as f:
-    os.environ["KEY"] = f.read()
-
-youtubeApi = googleapiclient.discovery.build(API_NAME, API_VER, developerKey=os.environ["KEY"])
+youtubeApi = googleapiclient.discovery.build(API_NAME, API_VER, developerKey=API_KEY)

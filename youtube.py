@@ -1,6 +1,7 @@
-from api.comment import importComments, fetchComments
-from api.captions import importCaptions, fetchCaptions
 from model.spam.SpamDetection import SpamDetection
+from api.captions import importCaptions, fetchCaptions
+from api.comment import importComments, fetchComments
+
 
 # Only use getComments() once. Then use importComments() for testing
 TESTING = True
