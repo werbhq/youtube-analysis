@@ -1,4 +1,4 @@
-import os
+from os.path import join as os_join, dirname as os_dirname, relpath as os_relpath, exists as path_exists
 import pandas as pd
 import json
 import pickle
@@ -8,13 +8,15 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import SVC
 import wordninja
 
-FILE_PATH = os.path.join('temp', 'spam_comments.json')
+from api import comment
 
-DIR_PATH = os.path.dirname(os.path.relpath(__file__))
-DATASET_PATH = os.path.join(DIR_PATH, "data", "data_set.csv")
-MODEL_PATH = os.path.join(DIR_PATH,  "data", "model.bin")
-VECTORIZER_PATH = os.path.join(DIR_PATH, "data", "vectorizer.bin")
-SCORE_PATH = os.path.join(DIR_PATH, "data", "score.bin")
+FILE_PATH = os_join('temp', 'spam_comments.json')
+
+DIR_PATH = os_dirname(os_relpath(__file__))
+DATASET_PATH = os_join(DIR_PATH, "data", "data_set.csv")
+MODEL_PATH = os_join(DIR_PATH,  "data", "model.bin")
+VECTORIZER_PATH = os_join(DIR_PATH, "data", "vectorizer.bin")
+SCORE_PATH = os_join(DIR_PATH, "data", "score.bin")
 
 
 class SpamDetection:
@@ -23,7 +25,7 @@ class SpamDetection:
     __vectorizer: TfidfVectorizer
 
     def __init__(self, retrain_model=False):
-        if not retrain_model and (os.path.exists(MODEL_PATH) and os.path.exists(VECTORIZER_PATH) and os.path.exists(SCORE_PATH)):
+        if not retrain_model and (path_exists(MODEL_PATH) and path_exists(VECTORIZER_PATH) and path_exists(SCORE_PATH)):
             print('Loading model')
             self.__model = pickle.load(open(MODEL_PATH, 'rb'))
             self.__vectorizer = pickle.load(open(VECTORIZER_PATH, 'rb'))
@@ -37,8 +39,8 @@ class SpamDetection:
             data["CONTENT"] = data["CONTENT"].apply(self.__cleanComment)
             data = data.drop_duplicates(subset="CONTENT")
 
-            x_train, x_test, y_train, y_test = train_test_split(data['CONTENT'], data['SPAM'], test_size=0.1, random_state=0)
-            self.__vectorizer = TfidfVectorizer()
+            x_train, x_test, y_train, y_test = train_test_split(data['CONTENT'], data['SPAM'], test_size=0.1, random_state=11)
+            self.__vectorizer = TfidfVectorizer(stop_words='english', lowercase=True)
             x_train = self.__vectorizer.fit_transform(x_train)
 
             # save vectorizer file
@@ -56,33 +58,27 @@ class SpamDetection:
             self.score = self.__model.score(x_test, y_test)
             pickle.dump(self.score, open(SCORE_PATH, 'wb'))
 
-    def __cleanComment(self, s: str):
-        s = re.sub(r'[^A-Za-z0-9 ]+', '', s)
-        s = ' '.join(wordninja.split(s))
-        s = s.lower()
-        return s
-
-    def __checkSpam(self, comment: str):
-        clean_comment = self.__cleanComment(comment)
-        comment_transformed = self.__vectorizer.transform([clean_comment])
-        spam = self.__model.predict(comment_transformed)[0]
-        return spam == 1
+    def __cleanComment(self, comment: str):
+        comment = re.sub(r'[^A-Za-z0-9 ]+', '', comment)  # Remove special chars
+        comment = ' '.join(wordninja.split(comment))  # convert 'h-e-y' type words to 'hey'
+        comment = comment.lower()
+        return comment
 
     def processComments(self, comments: list):
         """
         Checks whether the given comment in comments is a spam or not. Returns non-spam comments
         """
-        spamComments = []
-        nonSpamComments = []
-        for i in comments:
-            spam = self.__checkSpam(i['textDisplay'])
-            if spam:
-                spamComments.append(i['textDisplay'])
-            else:
-                nonSpamComments.append(i)
+        comments_df = pd.DataFrame(comments)
+        comments_cleaned = comments_df['textDisplay'].apply(self.__cleanComment)
+        comment_transformed = self.__vectorizer.transform(comments_cleaned)
+        comments_df['spam'] = self.__model.predict(comment_transformed)
 
-        print(f'Dumping {len(spamComments)}/{len(comments)} spam comments to {FILE_PATH}')
+        spam_comments = comments_df.loc[comments_df['spam'] == True].drop('spam', axis=1)
+        non_spam_comments = comments_df.loc[comments_df['spam'] == False].drop('spam', axis=1)
+
+        print(f'Dumping {len(spam_comments.index)}/{len(comments_df)} spam comments to {FILE_PATH}')
+
         with open(FILE_PATH, 'w') as f:
-            f.write(json.dumps(spamComments, indent=4))
+            f.write(json.dumps(spam_comments['textDisplay'].to_dict(), indent=4))
 
-        return nonSpamComments
+        return non_spam_comments.to_dict('records')
