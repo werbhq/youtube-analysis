@@ -1,6 +1,6 @@
 from model.spam.SpamDetection import SpamDetection
-from api.captions import import_captions, fetch_captions
-from api.comment import import_comments, fetch_comments
+import api.captions as caption
+import api.comment as comment
 
 
 # Only use getComments() once. Then use importComments() for testing
@@ -12,11 +12,11 @@ def main():
     comments: list
 
     if TESTING:
-        comments = import_comments()
-        captions = import_captions()
+        comments = comment.load()
+        captions = caption.load()
     else:
-        comments = fetch_comments(videoId)
-        captions = fetch_captions(videoId)
+        comments = comment.fetch(videoId)
+        captions = caption.fetch(videoId)
 
     # print(comments[0])
     # print(captions.keys())

@@ -3,21 +3,21 @@ import os
 import re
 import requests
 
-FILE_PATH = os.path.join('data', 'captions.json')
+__FILE_PATH = os.path.join('data', 'captions.json')
 
 
-def import_captions():
+def load():
     """
-    Imports the captions from captions.json
+    Loads the captions from captions.json
 
     Returns (dict) : captions
     """
-    with open(FILE_PATH, 'r') as f:
+    with open(__FILE_PATH, 'r') as f:
         comments: dict = json.loads(f.read())
         return comments
 
 
-def fetch_captions(youtubeId: str):
+def fetch(youtubeId: str):
     """
     Returns (dict) : caption unqiue words with it's frequency count. Empty {} if no subtitle for english found.
     """
@@ -48,8 +48,8 @@ def fetch_captions(youtubeId: str):
     else:
         print("No Subtitle Found")
 
-    print(f'Dumping file to {FILE_PATH}')
-    with open(FILE_PATH, 'w') as f:
+    print(f'Dumping file to {__FILE_PATH}')
+    with open(__FILE_PATH, 'w') as f:
         f.write(json.dumps(word_map, indent=4))
 
     return word_map
