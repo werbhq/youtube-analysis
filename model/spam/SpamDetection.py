@@ -8,8 +8,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import SVC
 import wordninja
 
-from api import comment
-
 FILE_PATH = os_join('temp', 'spam_comments.json')
 
 DIR_PATH = os_dirname(os_relpath(__file__))

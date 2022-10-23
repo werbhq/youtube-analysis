@@ -22,7 +22,7 @@ def main():
     # print(captions.keys())
 
     spamDetector = SpamDetection()
-    print(f'Model Accurary Score: {spamDetector.score}')
+    print(f'SpamDetection Model Accuracy: {spamDetector.score}')
     spamDetector.process_comments(comments)
 
 
