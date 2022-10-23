@@ -35,7 +35,7 @@ def load():
         return comments
 
 
-def fetch(youtubeVideoId: str, MAX_COMMENT=1500):
+def fetch(youtube_video_id: str, MAX_COMMENT=1500):
     """
     Fetches comments from {youtubeVideoId} with {MAX_COMMENT} limit and saves the comments in comments.json
 
@@ -48,7 +48,7 @@ def fetch(youtubeVideoId: str, MAX_COMMENT=1500):
     while (response.get('nextPageToken', None) != None and len(comment_list) < MAX_COMMENT):
         request = __youtube_api.commentThreads().list(
             part="snippet",
-            videoId=youtubeVideoId,
+            videoId=youtube_video_id,
             pageToken=response['nextPageToken'],
             textFormat='plainText',
             order='relevance',

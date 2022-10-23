@@ -22,11 +22,11 @@ def load(return_list=False):
             return comments['dict']
 
 
-def fetch(youtubeId: str, return_list=False):
+def fetch(youtube_id: str, return_list=False):
     """
     Returns (dict) : caption unqiue words with it's frequency count. Empty {} if no subtitle for english found.
     """
-    res = requests.get(url=f'https://youtu.be/{youtubeId}')
+    res = requests.get(url=f'https://youtu.be/{youtube_id}')
     urls = re.findall("\"(https:\/\/www.youtube.com\/api\/timedtext.*?)\"", res.text)  # Extracting caption lang urls
 
     caption_url: str = None
