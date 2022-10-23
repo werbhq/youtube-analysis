@@ -26,7 +26,7 @@ def __process_comments(response_items):
 
 def load():
     """
-    Loads the comments from response.json
+    Loads the comments from comments.json
 
     Returns (list) : comments
     """
@@ -37,7 +37,7 @@ def load():
 
 def fetch(youtubeVideoId: str, MAX_COMMENT=1500):
     """
-    Fetches comments from {youtubeVideoId} with {MAX_COMMENT} limit and saves the comments in response.json
+    Fetches comments from {youtubeVideoId} with {MAX_COMMENT} limit and saves the comments in comments.json
 
     Returns (list) : MAX_COMMENT number of comments.
     """
