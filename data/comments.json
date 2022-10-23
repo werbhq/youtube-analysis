@@ -8,7 +8,7 @@
         "authorChannelUrl": "http://www.youtube.com/channel/UCg-gIGcnm_qHmANUsHEHHUA",
         "authorChannelId": "UCg-gIGcnm_qHmANUsHEHHUA",
         "viewerRating": "none",
-        "likeCount": 26060,
+        "likeCount": 26062,
         "publishedAt": "2020-06-28T19:05:13Z",
         "updatedAt": "2020-06-28T19:05:13Z",
         "id": "UgxrstqOjIc3x8uNjz94AaABAg"
@@ -22,7 +22,7 @@
         "authorChannelUrl": "http://www.youtube.com/channel/UCbBdd4uXG1majPntWulYiew",
         "authorChannelId": "UCbBdd4uXG1majPntWulYiew",
         "viewerRating": "none",
-        "likeCount": 16654,
+        "likeCount": 16656,
         "publishedAt": "2019-02-24T08:36:54Z",
         "updatedAt": "2019-02-24T08:36:54Z",
         "id": "UgzulBKGnR3NYGnNLWF4AaABAg"
@@ -120,7 +120,7 @@
         "authorChannelUrl": "http://www.youtube.com/channel/UCzI47trtuBRt2Y2amqJrIiA",
         "authorChannelId": "UCzI47trtuBRt2Y2amqJrIiA",
         "viewerRating": "none",
-        "likeCount": 2240,
+        "likeCount": 2241,
         "publishedAt": "2022-03-08T17:40:46Z",
         "updatedAt": "2022-03-08T17:40:46Z",
         "id": "UgyNlPpzHhmCobmBLJ14AaABAg"
@@ -134,7 +134,7 @@
         "authorChannelUrl": "http://www.youtube.com/channel/UCwcZivJncf1Yd1rw-Wu8bhQ",
         "authorChannelId": "UCwcZivJncf1Yd1rw-Wu8bhQ",
         "viewerRating": "none",
-        "likeCount": 2084,
+        "likeCount": 2085,
         "publishedAt": "2020-10-07T20:02:01Z",
         "updatedAt": "2020-10-07T20:02:01Z",
         "id": "UgzwmAGFy_N67J7qUut4AaABAg"
@@ -246,7 +246,7 @@
         "authorChannelUrl": "http://www.youtube.com/channel/UCvIUNowCG5G-L3u-4Tn3Z_A",
         "authorChannelId": "UCvIUNowCG5G-L3u-4Tn3Z_A",
         "viewerRating": "none",
-        "likeCount": 376,
+        "likeCount": 377,
         "publishedAt": "2022-09-14T13:14:16Z",
         "updatedAt": "2022-10-15T12:38:47Z",
         "id": "UgzkEPxefpqU0O98YKt4AaABAg"
@@ -414,7 +414,7 @@
         "authorChannelUrl": "http://www.youtube.com/channel/UCpb27ViAEdSokyQaKxUF4fg",
         "authorChannelId": "UCpb27ViAEdSokyQaKxUF4fg",
         "viewerRating": "none",
-        "likeCount": 33,
+        "likeCount": 34,
         "publishedAt": "2022-08-01T12:30:49Z",
         "updatedAt": "2022-08-02T09:18:43Z",
         "id": "Ugyhd76zvjYq6gLTqyZ4AaABAg"
@@ -841,20 +841,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "great job! its really very helpful",
-        "textOriginal": "great job! its really very helpful",
-        "authorDisplayName": "Ahmad Hassan",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_daPs5uI1ACJI56a1eWrj4Vsut8mRH_oih2WUWgkAdScGmwcdQkmOz3EXkCgWv=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCD_tBx_KNkyTYd39t9kF0Zg",
-        "authorChannelId": "UCD_tBx_KNkyTYd39t9kF0Zg",
-        "viewerRating": "none",
-        "likeCount": 1,
-        "publishedAt": "2022-08-01T07:38:43Z",
-        "updatedAt": "2022-08-01T07:38:43Z",
-        "id": "UgwUe1pfj6CgU7AUvEt4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "\u2b50 Contents \u2b50\r\n\u2328 (0:00) Introduction\r\n\u2328 (1:45) Installing Python & PyCharm\r\n\u2328 (6:40) Setup & Hello World\r\n\u2328 (10:23) Drawing a Shape\r\n\u2328 (15:06) Variables & Data Types\r\n\u2328 (27:03) Working With Strings\r\n\u2328 (38:18) Working With Numbers\r\n\u2328 (48:26) Getting Input From Users\r\n\u2328 (52:37) Building a Basic Calculator\r\n\u2328 (58:27) Mad Libs Game\r\n\u2328 (1:03:10) Lists\r\n\u2328 (1:10:44) List Functions\r\n\u2328 (1:18:57) Tuples\r\n\u2328 (1:24:15) Functions\r\n\u2328 (1:34:11) Return Statement\r\n\u2328 (1:40:06) If Statements\r\n\u2328 (1:54:07) If Statements & Comparisons\r\n\u2328 (2:00:37) Building a better Calculator\r\n\u2328 (2:07:17) Dictionaries\r\n\u2328 (2:14:13) While Loop\r\n\u2328 (2:20:21) Building a Guessing Game\r\n\u2328 (2:32:44) For Loops\r\n\u2328 (2:41:20) Exponent Function\r\n\u2328 (2:47:13) 2D Lists & Nested Loops\r\n\u2328 (2:52:41) Building a Translator\r\n\u2328 (3:00:18) Comments\r\n\u2328 (3:04:17) Try / Except\r\n\u2328 (3:12:41) Reading Files\r\n\u2328 (3:21:26) Writing to Files\r\n\u2328 (3:28:13) Modules & Pip\r\n\u2328 (3:43:56) Classes & Objects\r\n\u2328 (3:57:37) Building a Multiple Choice Quiz\r\n\u2328 (4:08:28) Object Functions\r\n\u2328 (4:12:37) Inheritance\r\n\u2328 (4:20:43) Python Interpreter",
         "textOriginal": "\u2b50 Contents \u2b50\r\n\u2328 (0:00) Introduction\r\n\u2328 (1:45) Installing Python & PyCharm\r\n\u2328 (6:40) Setup & Hello World\r\n\u2328 (10:23) Drawing a Shape\r\n\u2328 (15:06) Variables & Data Types\r\n\u2328 (27:03) Working With Strings\r\n\u2328 (38:18) Working With Numbers\r\n\u2328 (48:26) Getting Input From Users\r\n\u2328 (52:37) Building a Basic Calculator\r\n\u2328 (58:27) Mad Libs Game\r\n\u2328 (1:03:10) Lists\r\n\u2328 (1:10:44) List Functions\r\n\u2328 (1:18:57) Tuples\r\n\u2328 (1:24:15) Functions\r\n\u2328 (1:34:11) Return Statement\r\n\u2328 (1:40:06) If Statements\r\n\u2328 (1:54:07) If Statements & Comparisons\r\n\u2328 (2:00:37) Building a better Calculator\r\n\u2328 (2:07:17) Dictionaries\r\n\u2328 (2:14:13) While Loop\r\n\u2328 (2:20:21) Building a Guessing Game\r\n\u2328 (2:32:44) For Loops\r\n\u2328 (2:41:20) Exponent Function\r\n\u2328 (2:47:13) 2D Lists & Nested Loops\r\n\u2328 (2:52:41) Building a Translator\r\n\u2328 (3:00:18) Comments\r\n\u2328 (3:04:17) Try / Except\r\n\u2328 (3:12:41) Reading Files\r\n\u2328 (3:21:26) Writing to Files\r\n\u2328 (3:28:13) Modules & Pip\r\n\u2328 (3:43:56) Classes & Objects\r\n\u2328 (3:57:37) Building a Multiple Choice Quiz\r\n\u2328 (4:08:28) Object Functions\r\n\u2328 (4:12:37) Inheritance\r\n\u2328 (4:20:43) Python Interpreter",
         "authorDisplayName": "MRCrushed ",
@@ -866,6 +852,20 @@
         "publishedAt": "2022-10-21T04:12:56Z",
         "updatedAt": "2022-10-21T04:12:56Z",
         "id": "UgwlNl9uL5YeuQx_A-h4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "great job! its really very helpful",
+        "textOriginal": "great job! its really very helpful",
+        "authorDisplayName": "Ahmad Hassan",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_daPs5uI1ACJI56a1eWrj4Vsut8mRH_oih2WUWgkAdScGmwcdQkmOz3EXkCgWv=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCD_tBx_KNkyTYd39t9kF0Zg",
+        "authorChannelId": "UCD_tBx_KNkyTYd39t9kF0Zg",
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-08-01T07:38:43Z",
+        "updatedAt": "2022-08-01T07:38:43Z",
+        "id": "UgwUe1pfj6CgU7AUvEt4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -2577,20 +2577,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "I have taken programming classes before and I couldn't understand anything.  The way you explain is pretty easy to understand, keep it up!",
-        "textOriginal": "I have taken programming classes before and I couldn't understand anything.  The way you explain is pretty easy to understand, keep it up!",
-        "authorDisplayName": "Alex Hernandez",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-ERHfXRaXMvakIpzJxD0Sj2oVHPMT-v0QVw_X7uA=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCi4Q3KlCpbY5lKt-4-7gdtA",
-        "authorChannelId": "UCi4Q3KlCpbY5lKt-4-7gdtA",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-07-28T01:50:03Z",
-        "updatedAt": "2022-07-28T01:50:28Z",
-        "id": "UgxDFRRUDiXoxTb5R7d4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "Simply Amazing! Learnt So Much!",
         "textOriginal": "Simply Amazing! Learnt So Much!",
         "authorDisplayName": "Abhijeet Mishra",
@@ -2602,6 +2588,20 @@
         "publishedAt": "2022-09-12T18:28:33Z",
         "updatedAt": "2022-09-12T18:28:33Z",
         "id": "Ugw-lsap_uVFroPu53p4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "I have taken programming classes before and I couldn't understand anything.  The way you explain is pretty easy to understand, keep it up!",
+        "textOriginal": "I have taken programming classes before and I couldn't understand anything.  The way you explain is pretty easy to understand, keep it up!",
+        "authorDisplayName": "Alex Hernandez",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-ERHfXRaXMvakIpzJxD0Sj2oVHPMT-v0QVw_X7uA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCi4Q3KlCpbY5lKt-4-7gdtA",
+        "authorChannelId": "UCi4Q3KlCpbY5lKt-4-7gdtA",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-07-28T01:50:03Z",
+        "updatedAt": "2022-07-28T01:50:28Z",
+        "id": "UgxDFRRUDiXoxTb5R7d4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -3501,20 +3501,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "You're the greatest teacher of time. Seriously. You should do this professionally",
-        "textOriginal": "You're the greatest teacher of time. Seriously. You should do this professionally",
-        "authorDisplayName": "Kate Eberle",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/kTcEdEUn3BppKiSJgRxggIj8U0wSTQwjeczFWyajF00gFvBtrNIFd3t3zj4Z-5iGUFhupiOncg=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCIgZ1i-uSYuPhILloY95LBA",
-        "authorChannelId": "UCIgZ1i-uSYuPhILloY95LBA",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-09-13T03:01:08Z",
-        "updatedAt": "2022-09-13T03:01:08Z",
-        "id": "UgxLS-CPau7_uJZIMQ14AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "That is an absolutely awesome tutorial video. Two questions if anyone could help, thx!\nHow to go back one step in console? Can u still go back after the process is finished?",
         "textOriginal": "That is an absolutely awesome tutorial video. Two questions if anyone could help, thx!\nHow to go back one step in console? Can u still go back after the process is finished?",
         "authorDisplayName": "Bruce_The Dragon",
@@ -3585,20 +3571,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "Second time watching this, really loved it!",
-        "textOriginal": "Second time watching this, really loved it!",
-        "authorDisplayName": "kamsiyochukwu arinze",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9hlZT2SMt1fN9JSRca7lzCvXkLSdH2NsyupA=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCTowfhQMAER_7L8xIn6CXmg",
-        "authorChannelId": "UCTowfhQMAER_7L8xIn6CXmg",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-07-10T03:09:59Z",
-        "updatedAt": "2022-07-10T03:09:59Z",
-        "id": "UgwJ96yyQFS2yzbCT3d4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "This is the best python tutorial ever\ud83d\udd25\ud83d\udd25\ud83d\udd25",
         "textOriginal": "This is the best python tutorial ever\ud83d\udd25\ud83d\udd25\ud83d\udd25",
         "authorDisplayName": "Romon Hadris  Chimbonga",
@@ -3610,6 +3582,20 @@
         "publishedAt": "2022-08-16T21:18:17Z",
         "updatedAt": "2022-08-16T21:18:17Z",
         "id": "UgyupdjaR7HrIOX0ULh4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "You're the greatest teacher of time. Seriously. You should do this professionally",
+        "textOriginal": "You're the greatest teacher of time. Seriously. You should do this professionally",
+        "authorDisplayName": "Kate Eberle",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/kTcEdEUn3BppKiSJgRxggIj8U0wSTQwjeczFWyajF00gFvBtrNIFd3t3zj4Z-5iGUFhupiOncg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIgZ1i-uSYuPhILloY95LBA",
+        "authorChannelId": "UCIgZ1i-uSYuPhILloY95LBA",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-09-13T03:01:08Z",
+        "updatedAt": "2022-09-13T03:01:08Z",
+        "id": "UgxLS-CPau7_uJZIMQ14AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -4198,6 +4184,20 @@
         "publishedAt": "2022-09-14T16:10:04Z",
         "updatedAt": "2022-09-14T16:10:04Z",
         "id": "UgxqxxVBu1duNqyzb0t4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "i am extremely grateful to come by this tutorial..\ud83d\ude4f\ud83c\udffe",
+        "textOriginal": "i am extremely grateful to come by this tutorial..\ud83d\ude4f\ud83c\udffe",
+        "authorDisplayName": "Iluv_oldfashion",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/3I-6WVnM5IDnLGeXu-Z26yifCpPzztnE_gO5Q-QMnrvn9oVEwWahGUaJrAISXpE7sOLqXwMcbg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC9dXykjwFMjZC7yuSA5wLlw",
+        "authorChannelId": "UC9dXykjwFMjZC7yuSA5wLlw",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-08-27T13:25:05Z",
+        "updatedAt": "2022-08-27T13:25:05Z",
+        "id": "UgwGqew2zzzsojh5S7Z4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -4831,20 +4831,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "i am extremely grateful to come by this tutorial..\ud83d\ude4f\ud83c\udffe",
-        "textOriginal": "i am extremely grateful to come by this tutorial..\ud83d\ude4f\ud83c\udffe",
-        "authorDisplayName": "Iluv_oldfashion",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/3I-6WVnM5IDnLGeXu-Z26yifCpPzztnE_gO5Q-QMnrvn9oVEwWahGUaJrAISXpE7sOLqXwMcbg=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UC9dXykjwFMjZC7yuSA5wLlw",
-        "authorChannelId": "UC9dXykjwFMjZC7yuSA5wLlw",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-08-27T13:25:05Z",
-        "updatedAt": "2022-08-27T13:25:05Z",
-        "id": "UgwGqew2zzzsojh5S7Z4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "Can i get a certification after finish this course? Or can you point me to one that will do?\n\nThanks for the class. And the teaching. Well appreciated.",
         "textOriginal": "Can i get a certification after finish this course? Or can you point me to one that will do?\n\nThanks for the class. And the teaching. Well appreciated.",
         "authorDisplayName": "1alopezpr",
@@ -5349,20 +5335,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "It is amazing Learning Videos\ud83d\ude4f\ud83d\ude4f",
-        "textOriginal": "It is amazing Learning Videos\ud83d\ude4f\ud83d\ude4f",
-        "authorDisplayName": "P joshi",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu86YrsgjINx4lt5LHNuuLmo9GvDuX2l-2leQ4kk=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCKp6EYT4ePcNKPGkf2OGpFg",
-        "authorChannelId": "UCKp6EYT4ePcNKPGkf2OGpFg",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-08-24T23:32:13Z",
-        "updatedAt": "2022-08-24T23:32:33Z",
-        "id": "UgyvIOGx5MNwm1M_kIN4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "thanks. \nyour course is awesome.",
         "textOriginal": "thanks. \nyour course is awesome.",
         "authorDisplayName": "Vital Ral",
@@ -5374,6 +5346,20 @@
         "publishedAt": "2022-10-22T04:34:52Z",
         "updatedAt": "2022-10-23T01:10:01Z",
         "id": "UgxRjF5hM-M3Z_OBjU14AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "It is amazing Learning Videos\ud83d\ude4f\ud83d\ude4f",
+        "textOriginal": "It is amazing Learning Videos\ud83d\ude4f\ud83d\ude4f",
+        "authorDisplayName": "P joshi",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu86YrsgjINx4lt5LHNuuLmo9GvDuX2l-2leQ4kk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKp6EYT4ePcNKPGkf2OGpFg",
+        "authorChannelId": "UCKp6EYT4ePcNKPGkf2OGpFg",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-08-24T23:32:13Z",
+        "updatedAt": "2022-08-24T23:32:33Z",
+        "id": "UgyvIOGx5MNwm1M_kIN4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -5598,6 +5584,20 @@
         "publishedAt": "2022-07-28T14:28:44Z",
         "updatedAt": "2022-07-28T14:28:44Z",
         "id": "UgyL5_ToyF57gQalzyh4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "Just finished this course, what should I learn next or should I start on a small project (Need recommendation) to apply what I had learnt? Appreciate any inputs from the Youtube community",
+        "textOriginal": "Just finished this course, what should I learn next or should I start on a small project (Need recommendation) to apply what I had learnt? Appreciate any inputs from the Youtube community",
+        "authorDisplayName": "Yan Soon",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_uknwL_YJp15JycN0uXzepXwbjYsXEp1xq2QVVFw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCNjIhuuHRJhLcRyro2S6kZQ",
+        "authorChannelId": "UCNjIhuuHRJhLcRyro2S6kZQ",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-08-29T07:24:12Z",
+        "updatedAt": "2022-08-29T07:24:12Z",
+        "id": "UgwWfXR3pNilM2sxWMh4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -6035,20 +6035,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "Just finished this course, what should I learn next or should I start on a small project (Need recommendation) to apply what I had learnt? Appreciate any inputs from the Youtube community",
-        "textOriginal": "Just finished this course, what should I learn next or should I start on a small project (Need recommendation) to apply what I had learnt? Appreciate any inputs from the Youtube community",
-        "authorDisplayName": "Yan Soon",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_uknwL_YJp15JycN0uXzepXwbjYsXEp1xq2QVVFw=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCNjIhuuHRJhLcRyro2S6kZQ",
-        "authorChannelId": "UCNjIhuuHRJhLcRyro2S6kZQ",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-08-29T07:24:12Z",
-        "updatedAt": "2022-08-29T07:24:12Z",
-        "id": "UgwWfXR3pNilM2sxWMh4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "Day 1               \n38:27\n\nDay 2\n1:03:21",
         "textOriginal": "Day 1               \n38:27\n\nDay 2\n1:03:21",
         "authorDisplayName": "Rafael Lopez",
@@ -6147,6 +6133,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "Progress:\nDay 1:  34:46",
+        "textOriginal": "Progress:\nDay 1:  34:46",
+        "authorDisplayName": "Adalix",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/aTwW6aujYK5mTsrrJkvjLeU0K-VR788ymWiHAzdbbkL_4TdCLDVa6jfvDyYqvL3tt_sPKF3p=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCDM0bI5WJXT9iTPkSfRkZdA",
+        "authorChannelId": "UCDM0bI5WJXT9iTPkSfRkZdA",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-09-06T21:39:21Z",
+        "updatedAt": "2022-09-06T21:39:21Z",
+        "id": "UgzLyvD11S8SdqpER6x4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "Awesome!",
         "textOriginal": "Awesome!",
         "authorDisplayName": "Schill",
@@ -6172,20 +6172,6 @@
         "publishedAt": "2022-08-31T12:00:39Z",
         "updatedAt": "2022-08-31T12:00:39Z",
         "id": "UgzjUr2nfcXsWfy5DWB4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "Progress:\nDay 1:  34:46",
-        "textOriginal": "Progress:\nDay 1:  34:46",
-        "authorDisplayName": "Adalix",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/aTwW6aujYK5mTsrrJkvjLeU0K-VR788ymWiHAzdbbkL_4TdCLDVa6jfvDyYqvL3tt_sPKF3p=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCDM0bI5WJXT9iTPkSfRkZdA",
-        "authorChannelId": "UCDM0bI5WJXT9iTPkSfRkZdA",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-09-06T21:39:21Z",
-        "updatedAt": "2022-09-06T21:39:21Z",
-        "id": "UgzLyvD11S8SdqpER6x4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -7001,6 +6987,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "If you're reading this....\n\n\nCongratulations you're now a python developer \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "textOriginal": "If you're reading this....\n\n\nCongratulations you're now a python developer \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "authorDisplayName": "\u0cb6\u0ccd\u0cb0\u0cc7\u0caf\u0cb8\u0ccd",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-KymFkkt-T25mtT-Nuq_C59XlbjFp3BcV-pyzKHTG1dQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1b7kceT6pVYgGa5vMmprPA",
+        "authorChannelId": "UC1b7kceT6pVYgGa5vMmprPA",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-10-21T19:43:45Z",
+        "updatedAt": "2022-10-21T19:43:45Z",
+        "id": "Ugx7I32D89DpXB6khv94AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "\u2328\ufe0f (0:00) Introduction\n\u2328\ufe0f (1:45) Installing Python & PyCharm\n\u2328\ufe0f (6:40) Setup & Hello World\n\u2328\ufe0f (10:23) Drawing a Shape\n\u2328\ufe0f (15:06) Variables & Data Types\n\u2328\ufe0f (27:03) Working With Strings\n\u2328\ufe0f (38:18) Working With Numbers\n\u2328\ufe0f (48:26) Getting Input From Users\n\u2328\ufe0f (52:37) Building a Basic Calculator\n\u2328\ufe0f (58:27) Mad Libs Game\n\u2328\ufe0f (1:03:10) Lists\n\u2328\ufe0f (1:10:44) List Functions\n\u2328\ufe0f (1:18:57) Tuples\n\u2328\ufe0f (1:24:15) Functions\n\u2328\ufe0f (1:34:11) Return Statement\n\u2328\ufe0f (1:40:06) If Statements\n\u2328\ufe0f (1:54:07) If Statements & Comparisons\n\u2328\ufe0f (2:00:37) Building a better Calculator\n\u2328\ufe0f (2:07:17 Dictionaries\n\u2328\ufe0f (2:14:13 While Loop\n\u2328\ufe0f (2:20:21 Building a Guessing Game\n\u2328\ufe0f (2:32:44  For Loops\n\u2328\ufe0f (2:41:20 Exponent Function\n\u2328\ufe0f (2:47:13  2D Lists & Nested Loops\n\u2328\ufe0f (2:52:41  Building a Translator\n\u2328\ufe0f (3:00:18 Comments\n\u2328\ufe0f (3:04:17 Try / Except\n\u2328\ufe0f (3:12:41  Reading Files\n\u2328\ufe0f (3:21:26 Writing to Files\n\u2328\ufe0f (3:28:13 Modules & Pip\n\u2328\ufe0f (3:43:56 Classes & Objects\n\u2328\ufe0f (3:57:37 Building a Multiple Choice Quiz\n\u2328\ufe0f 4:08:28 Object Functions\n\u2328\ufe0f 4:12:37 Inheritance\n\u2328\ufe0f 4:20:43 Python Interpreter",
         "textOriginal": "\u2328\ufe0f (0:00) Introduction\n\u2328\ufe0f (1:45) Installing Python & PyCharm\n\u2328\ufe0f (6:40) Setup & Hello World\n\u2328\ufe0f (10:23) Drawing a Shape\n\u2328\ufe0f (15:06) Variables & Data Types\n\u2328\ufe0f (27:03) Working With Strings\n\u2328\ufe0f (38:18) Working With Numbers\n\u2328\ufe0f (48:26) Getting Input From Users\n\u2328\ufe0f (52:37) Building a Basic Calculator\n\u2328\ufe0f (58:27) Mad Libs Game\n\u2328\ufe0f (1:03:10) Lists\n\u2328\ufe0f (1:10:44) List Functions\n\u2328\ufe0f (1:18:57) Tuples\n\u2328\ufe0f (1:24:15) Functions\n\u2328\ufe0f (1:34:11) Return Statement\n\u2328\ufe0f (1:40:06) If Statements\n\u2328\ufe0f (1:54:07) If Statements & Comparisons\n\u2328\ufe0f (2:00:37) Building a better Calculator\n\u2328\ufe0f (2:07:17 Dictionaries\n\u2328\ufe0f (2:14:13 While Loop\n\u2328\ufe0f (2:20:21 Building a Guessing Game\n\u2328\ufe0f (2:32:44  For Loops\n\u2328\ufe0f (2:41:20 Exponent Function\n\u2328\ufe0f (2:47:13  2D Lists & Nested Loops\n\u2328\ufe0f (2:52:41  Building a Translator\n\u2328\ufe0f (3:00:18 Comments\n\u2328\ufe0f (3:04:17 Try / Except\n\u2328\ufe0f (3:12:41  Reading Files\n\u2328\ufe0f (3:21:26 Writing to Files\n\u2328\ufe0f (3:28:13 Modules & Pip\n\u2328\ufe0f (3:43:56 Classes & Objects\n\u2328\ufe0f (3:57:37 Building a Multiple Choice Quiz\n\u2328\ufe0f 4:08:28 Object Functions\n\u2328\ufe0f 4:12:37 Inheritance\n\u2328\ufe0f 4:20:43 Python Interpreter",
         "authorDisplayName": "Sandeep Bandaru",
@@ -7533,17 +7533,17 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "If you're reading this....\n\n\nCongratulations you're now a python developer \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
-        "textOriginal": "If you're reading this....\n\n\nCongratulations you're now a python developer \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
-        "authorDisplayName": "\u0cb6\u0ccd\u0cb0\u0cc7\u0caf\u0cb8\u0ccd",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-KymFkkt-T25mtT-Nuq_C59XlbjFp3BcV-pyzKHTG1dQ=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UC1b7kceT6pVYgGa5vMmprPA",
-        "authorChannelId": "UC1b7kceT6pVYgGa5vMmprPA",
+        "textDisplay": "cheers mate doing a 12 hour homework now",
+        "textOriginal": "cheers mate doing a 12 hour homework now",
+        "authorDisplayName": "Tazer Hxck",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/FW_d_6-If9ptR9awyuZPcw6nL6QyKIAfnfkK9y_rRQChp2HDsnGVEGqenZTUVaAeBaLXysrgBA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCnvaEi7AMd-lwkjeM8WDEkw",
+        "authorChannelId": "UCnvaEi7AMd-lwkjeM8WDEkw",
         "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-10-21T19:43:45Z",
-        "updatedAt": "2022-10-21T19:43:45Z",
-        "id": "Ugx7I32D89DpXB6khv94AaABAg"
+        "likeCount": 1,
+        "publishedAt": "2022-07-29T15:45:10Z",
+        "updatedAt": "2022-07-29T15:45:10Z",
+        "id": "UgwL347T-RYOpSbpPdB4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -7561,20 +7561,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "Thank you hoping I will pass the exam tommorow",
-        "textOriginal": "Thank you hoping I will pass the exam tommorow",
-        "authorDisplayName": "Angelo D. Mauricio",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/eXbDkumzz_U6lnZzK29rAxouiJlOLjW0nuwGnVp65ziBPfNgbdAEgF9I8_2Bfpmqnjdnwk8tZw=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCtXJktMGs7bIhh34pCw7amg",
-        "authorChannelId": "UCtXJktMGs7bIhh34pCw7amg",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-10-20T13:21:33Z",
-        "updatedAt": "2022-10-20T13:21:33Z",
-        "id": "UgzIrF0MJc0DlogKeG94AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "Quick question is punctuation necessary in coding ? Bc when I\u2019m trying the John Example I\u2019m trying to take a short cut and it\u2019s not working it says EOL string literal or sum but do I really need to have precise punctuation to??",
         "textOriginal": "Quick question is punctuation necessary in coding ? Bc when I\u2019m trying the John Example I\u2019m trying to take a short cut and it\u2019s not working it says EOL string literal or sum but do I really need to have precise punctuation to??",
         "authorDisplayName": "Blunts",
@@ -7586,6 +7572,20 @@
         "publishedAt": "2022-09-29T01:14:59Z",
         "updatedAt": "2022-09-29T01:16:33Z",
         "id": "Ugxq9KdedgidXQxkUF54AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "Thank you hoping I will pass the exam tommorow",
+        "textOriginal": "Thank you hoping I will pass the exam tommorow",
+        "authorDisplayName": "Angelo D. Mauricio",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/eXbDkumzz_U6lnZzK29rAxouiJlOLjW0nuwGnVp65ziBPfNgbdAEgF9I8_2Bfpmqnjdnwk8tZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCtXJktMGs7bIhh34pCw7amg",
+        "authorChannelId": "UCtXJktMGs7bIhh34pCw7amg",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-10-20T13:21:33Z",
+        "updatedAt": "2022-10-20T13:21:33Z",
+        "id": "UgzIrF0MJc0DlogKeG94AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -7645,20 +7645,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "Switch to 0.25x playback speed for the fullest course",
-        "textOriginal": "Switch to 0.25x playback speed for the fullest course",
-        "authorDisplayName": "Larsman",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/1jHCMemIeNBV2rWme-tJdibOw0Xvm6aYZsmzptldNlvpdsZ88Jh5Iii0SwimDNdoaXO0RXZhaw=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCVJ_dPrs3EmhZ2HMbpCnouw",
-        "authorChannelId": "UCVJ_dPrs3EmhZ2HMbpCnouw",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-08-19T05:31:35Z",
-        "updatedAt": "2022-08-19T05:31:35Z",
-        "id": "Ugx4LNmJeGpUf8B7mqZ4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "I\u2019ve never coded in my life. Would I be able to code after today or should I go get familiar with coding before this video?",
         "textOriginal": "I\u2019ve never coded in my life. Would I be able to code after today or should I go get familiar with coding before this video?",
         "authorDisplayName": "Saul Fregoso",
@@ -7670,6 +7656,20 @@
         "publishedAt": "2022-10-21T16:22:42Z",
         "updatedAt": "2022-10-21T16:22:42Z",
         "id": "UgyKDQltEAG6s5NvJEx4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "Switch to 0.25x playback speed for the fullest course",
+        "textOriginal": "Switch to 0.25x playback speed for the fullest course",
+        "authorDisplayName": "Larsman",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/1jHCMemIeNBV2rWme-tJdibOw0Xvm6aYZsmzptldNlvpdsZ88Jh5Iii0SwimDNdoaXO0RXZhaw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCVJ_dPrs3EmhZ2HMbpCnouw",
+        "authorChannelId": "UCVJ_dPrs3EmhZ2HMbpCnouw",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-08-19T05:31:35Z",
+        "updatedAt": "2022-08-19T05:31:35Z",
+        "id": "Ugx4LNmJeGpUf8B7mqZ4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -7785,20 +7785,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "Hello guys. I'm new here never experienced programming, should i start learning python first?",
-        "textOriginal": "Hello guys. I'm new here never experienced programming, should i start learning python first?",
-        "authorDisplayName": "E to the A Z Y",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9iV096ktZPXYsReBZbs8dWDJamhLuzsZ8ETW3IPA=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCq-hpPlW-qzlUZufMCl3Asg",
-        "authorChannelId": "UCq-hpPlW-qzlUZufMCl3Asg",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-07-30T12:39:04Z",
-        "updatedAt": "2022-07-30T12:39:04Z",
-        "id": "UgxHBMe8xtfHGjQ-7dR4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "Can someone write a list for all the commands he has used. Lost my notes :( (got up to list functions)",
         "textOriginal": "Can someone write a list for all the commands he has used. Lost my notes :( (got up to list functions)",
         "authorDisplayName": "Hani Dhary",
@@ -7810,6 +7796,20 @@
         "publishedAt": "2022-10-08T13:01:52Z",
         "updatedAt": "2022-10-08T13:01:52Z",
         "id": "Ugz448nzp9kR-M9MjEZ4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "Hello guys. I'm new here never experienced programming, should i start learning python first?",
+        "textOriginal": "Hello guys. I'm new here never experienced programming, should i start learning python first?",
+        "authorDisplayName": "E to the A Z Y",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9iV096ktZPXYsReBZbs8dWDJamhLuzsZ8ETW3IPA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCq-hpPlW-qzlUZufMCl3Asg",
+        "authorChannelId": "UCq-hpPlW-qzlUZufMCl3Asg",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-07-30T12:39:04Z",
+        "updatedAt": "2022-07-30T12:39:04Z",
+        "id": "UgxHBMe8xtfHGjQ-7dR4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -8443,20 +8443,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "I really liked this course. I watched the entire thing. All I can say is that it is incredible and that I learned a lot. Thank you so much!",
-        "textOriginal": "I really liked this course. I watched the entire thing. All I can say is that it is incredible and that I learned a lot. Thank you so much!",
-        "authorDisplayName": "Rahul The Hydroponics Kid",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8kXiDvMHk6zoQFwcWSg_HzaJOVGy1uN0EyyNiG=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCvaCuy54zJ_Oqi9f-8Gixew",
-        "authorChannelId": "UCvaCuy54zJ_Oqi9f-8Gixew",
-        "viewerRating": "none",
-        "likeCount": 42,
-        "publishedAt": "2021-12-31T23:26:20Z",
-        "updatedAt": "2021-12-31T23:26:20Z",
-        "id": "UgxvfwWZxByjM1dH8-B4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "Thank you for this video! After watching this as a total beginner, I challenged myself to code a score-tracker for one of my favourite card games. It took 2 days of trial and error, but I finally managed to code it!",
         "textOriginal": "Thank you for this video! After watching this as a total beginner, I challenged myself to code a score-tracker for one of my favourite card games. It took 2 days of trial and error, but I finally managed to code it!",
         "authorDisplayName": "Cluckoo TheChicken",
@@ -8681,6 +8667,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "I\u2019ve spent well over an hour going through the first part of the tutorial and I have to say this is super easy to follow along and is demonstrated perfectly so you don\u2019t miss understand what\u2019s being presented. Thanks for making an extremely in depth video for beginner programmers/coders! I will be watching this video for the next few months..!",
+        "textOriginal": "I\u2019ve spent well over an hour going through the first part of the tutorial and I have to say this is super easy to follow along and is demonstrated perfectly so you don\u2019t miss understand what\u2019s being presented. Thanks for making an extremely in depth video for beginner programmers/coders! I will be watching this video for the next few months..!",
+        "authorDisplayName": "Dylan Dowdy",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8PxD2vK8Dai_RS8YW8uyQIRGuyYgezoctg9g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTF5ss393ohBs7SpR6huclA",
+        "authorChannelId": "UCTF5ss393ohBs7SpR6huclA",
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2019-10-01T16:02:55Z",
+        "updatedAt": "2019-10-01T16:02:55Z",
+        "id": "Ugwq3wQzknEk2B33EeR4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "By now it\u2019s probably safe to say, either you are avoiding the cryptocurrency world and confused just looking at it, or you see the world through crypto and NFTs and all the potential it represents. This  platform that has seen the evolution of the world\u2019s financial systems riding the highs and experiencing the lows as well",
         "textOriginal": "By now it\u2019s probably safe to say, either you are avoiding the cryptocurrency world and confused just looking at it, or you see the world through crypto and NFTs and all the potential it represents. This  platform that has seen the evolution of the world\u2019s financial systems riding the highs and experiencing the lows as well",
         "authorDisplayName": "Recommending Realsourceinvestment\u2b55\ufe0fnet on web",
@@ -8748,20 +8748,6 @@
         "publishedAt": "2022-10-16T14:25:46Z",
         "updatedAt": "2022-10-16T14:25:46Z",
         "id": "Ugy-Yjsca7MXQEutBHZ4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "cheers mate doing a 12 hour homework now",
-        "textOriginal": "cheers mate doing a 12 hour homework now",
-        "authorDisplayName": "Tazer Hxck",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/FW_d_6-If9ptR9awyuZPcw6nL6QyKIAfnfkK9y_rRQChp2HDsnGVEGqenZTUVaAeBaLXysrgBA=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCnvaEi7AMd-lwkjeM8WDEkw",
-        "authorChannelId": "UCnvaEi7AMd-lwkjeM8WDEkw",
-        "viewerRating": "none",
-        "likeCount": 1,
-        "publishedAt": "2022-07-29T15:45:10Z",
-        "updatedAt": "2022-07-29T15:45:10Z",
-        "id": "UgwL347T-RYOpSbpPdB4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -9801,6 +9787,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "day 1 (10:09)",
+        "textOriginal": "day 1 (10:09)",
+        "authorDisplayName": "Kyo Kairo",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_XZXA-r2uVU82ZPVaJdK_Dnf_0mZezAVJcuDzJeg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC_YJFGX-p_Xop8Y_b6MAsfg",
+        "authorChannelId": "UC_YJFGX-p_Xop8Y_b6MAsfg",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-09-07T14:51:55Z",
+        "updatedAt": "2022-09-07T15:36:05Z",
+        "id": "Ugygr1gz7Hu2FHh54lt4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "All the dislikes are from Python teachers charging $100 an hour",
         "textOriginal": "All the dislikes are from Python teachers charging $100 an hour",
         "authorDisplayName": "Jay Rule",
@@ -9812,6 +9812,20 @@
         "publishedAt": "2020-08-14T19:13:55Z",
         "updatedAt": "2020-08-14T19:13:55Z",
         "id": "Ugwu5jX_dzohw_jBTs94AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "Finally, a programmer that speaks like a normal human being. Every other tutorial seems to be made by people who have just forgotten what beginner even means.\n\nEDIT: omg guys thank you for all the -\nJust kidding, that's annoying. Wash your hands.",
+        "textOriginal": "Finally, a programmer that speaks like a normal human being. Every other tutorial seems to be made by people who have just forgotten what beginner even means.\n\nEDIT: omg guys thank you for all the -\nJust kidding, that's annoying. Wash your hands.",
+        "authorDisplayName": "Tea",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_w9Qr39wNY92slrzyG58fQlYpQlGQAJsVC6ZTC=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCOYKkH4pc2_SpXvSRYfTN0A",
+        "authorChannelId": "UCOYKkH4pc2_SpXvSRYfTN0A",
+        "viewerRating": "none",
+        "likeCount": 1194,
+        "publishedAt": "2020-05-16T19:39:15Z",
+        "updatedAt": "2020-05-30T20:29:19Z",
+        "id": "UgyqBxNK1-ACqQwjxox4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -9910,6 +9924,20 @@
         "publishedAt": "2022-05-10T11:07:17Z",
         "updatedAt": "2022-05-10T11:07:17Z",
         "id": "Ugxh3PAK8XolHDoYppR4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "I really liked this course. I watched the entire thing. All I can say is that it is incredible and that I learned a lot. Thank you so much!",
+        "textOriginal": "I really liked this course. I watched the entire thing. All I can say is that it is incredible and that I learned a lot. Thank you so much!",
+        "authorDisplayName": "Rahul The Hydroponics Kid",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8kXiDvMHk6zoQFwcWSg_HzaJOVGy1uN0EyyNiG=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCvaCuy54zJ_Oqi9f-8Gixew",
+        "authorChannelId": "UCvaCuy54zJ_Oqi9f-8Gixew",
+        "viewerRating": "none",
+        "likeCount": 42,
+        "publishedAt": "2021-12-31T23:26:20Z",
+        "updatedAt": "2021-12-31T23:26:20Z",
+        "id": "UgxvfwWZxByjM1dH8-B4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -10025,31 +10053,17 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "I\u2019ve spent well over an hour going through the first part of the tutorial and I have to say this is super easy to follow along and is demonstrated perfectly so you don\u2019t miss understand what\u2019s being presented. Thanks for making an extremely in depth video for beginner programmers/coders! I will be watching this video for the next few months..!",
-        "textOriginal": "I\u2019ve spent well over an hour going through the first part of the tutorial and I have to say this is super easy to follow along and is demonstrated perfectly so you don\u2019t miss understand what\u2019s being presented. Thanks for making an extremely in depth video for beginner programmers/coders! I will be watching this video for the next few months..!",
-        "authorDisplayName": "Dylan Dowdy",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8PxD2vK8Dai_RS8YW8uyQIRGuyYgezoctg9g=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCTF5ss393ohBs7SpR6huclA",
-        "authorChannelId": "UCTF5ss393ohBs7SpR6huclA",
+        "textDisplay": "I ust completed the course and it was very informative. Thank you for your hard work on providing this course. Best regards",
+        "textOriginal": "I ust completed the course and it was very informative. Thank you for your hard work on providing this course. Best regards",
+        "authorDisplayName": "Ak\u0131n \u015eanl\u0131",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9SesXiS9My8XTF7sVZWN0fiXhqC-MZ06Aeog=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ1xTzlEFmkdZ79yufrzh1w",
+        "authorChannelId": "UCZ1xTzlEFmkdZ79yufrzh1w",
         "viewerRating": "none",
         "likeCount": 10,
-        "publishedAt": "2019-10-01T16:02:55Z",
-        "updatedAt": "2019-10-01T16:02:55Z",
-        "id": "Ugwq3wQzknEk2B33EeR4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "You are an excellent teacher,  you have explained things so well and to the point, keep up the great work your doing.",
-        "textOriginal": "You are an excellent teacher,  you have explained things so well and to the point, keep up the great work your doing.",
-        "authorDisplayName": "machining projects at a hobby level plus woodworking",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9HHRcLF8I2o7QcWYrXDnuSorSq1L18yp-lJV7g=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCIdnn_48csoK33XFv-LJbSw",
-        "authorChannelId": "UCIdnn_48csoK33XFv-LJbSw",
-        "viewerRating": "none",
-        "likeCount": 10,
-        "publishedAt": "2018-10-22T01:08:11Z",
-        "updatedAt": "2018-10-22T01:08:11Z",
-        "id": "UgxH18GB04CVkzln7nB4AaABAg"
+        "publishedAt": "2019-06-11T05:36:17Z",
+        "updatedAt": "2019-06-11T05:36:17Z",
+        "id": "UgxV5UjdgBRT-C__INZ4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -10249,20 +10263,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "day 1 (10:09)",
-        "textOriginal": "day 1 (10:09)",
-        "authorDisplayName": "Kyo Kairo",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_XZXA-r2uVU82ZPVaJdK_Dnf_0mZezAVJcuDzJeg=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UC_YJFGX-p_Xop8Y_b6MAsfg",
-        "authorChannelId": "UC_YJFGX-p_Xop8Y_b6MAsfg",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-09-07T14:51:55Z",
-        "updatedAt": "2022-09-07T15:36:05Z",
-        "id": "Ugygr1gz7Hu2FHh54lt4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "hi coding gurus out there. i need help understanding 2:57:54 on translation.\n\ndef translate (phrase):\r\n    translation = \"\"\r\n    for letter in phrase:\r\n        if letter in \"AEIOUaeiou\":\r\n            translation = translation + \"g\"\r\n        else:\r\n            translation = translation + letter\r\n    return translation\r\n\r\nprint(translate(input(\"enter a phrase: \")))\n\nWhy is the output for dog is \"dgg\" in a single line. \nWas expecting the output to be truncated in different lines as shown in the FOR ... IN loop function\nd\ng\ng\n\nthank you for your help",
         "textOriginal": "hi coding gurus out there. i need help understanding 2:57:54 on translation.\n\ndef translate (phrase):\r\n    translation = \"\"\r\n    for letter in phrase:\r\n        if letter in \"AEIOUaeiou\":\r\n            translation = translation + \"g\"\r\n        else:\r\n            translation = translation + letter\r\n    return translation\r\n\r\nprint(translate(input(\"enter a phrase: \")))\n\nWhy is the output for dog is \"dgg\" in a single line. \nWas expecting the output to be truncated in different lines as shown in the FOR ... IN loop function\nd\ng\ng\n\nthank you for your help",
         "authorDisplayName": "Bobby Kor",
@@ -10302,20 +10302,6 @@
         "publishedAt": "2022-08-12T10:54:28Z",
         "updatedAt": "2022-08-12T10:54:28Z",
         "id": "UgywpW-Cc02JhR6VSq54AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "man this video is one of the best",
-        "textOriginal": "man this video is one of the best",
-        "authorDisplayName": "Python EZ",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/haqW1xA3yBR9g9ucaxxjDsDDiMffzvD1w90rBJOGiUqv5Pzd3BWjD8MwD1Elx-FnAlVP4-k6Mg=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UC4Nkmh6caf3hFdxCJ8IvIxA",
-        "authorChannelId": "UC4Nkmh6caf3hFdxCJ8IvIxA",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-10-21T03:43:43Z",
-        "updatedAt": "2022-10-21T03:43:43Z",
-        "id": "Ugz2u_pgJqThMg3BDmB4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -10372,6 +10358,20 @@
         "publishedAt": "2022-08-11T05:51:58Z",
         "updatedAt": "2022-08-11T05:51:58Z",
         "id": "UgyR9_5v8AeWftyZqKp4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "man this video is one of the best",
+        "textOriginal": "man this video is one of the best",
+        "authorDisplayName": "Python EZ",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/haqW1xA3yBR9g9ucaxxjDsDDiMffzvD1w90rBJOGiUqv5Pzd3BWjD8MwD1Elx-FnAlVP4-k6Mg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC4Nkmh6caf3hFdxCJ8IvIxA",
+        "authorChannelId": "UC4Nkmh6caf3hFdxCJ8IvIxA",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-10-21T03:43:43Z",
+        "updatedAt": "2022-10-21T03:43:43Z",
+        "id": "Ugz2u_pgJqThMg3BDmB4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -10823,6 +10823,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "I DID ITTTTTTTTT!!!!!!!!!!!!",
+        "textOriginal": "I DID ITTTTTTTTT!!!!!!!!!!!!",
+        "authorDisplayName": "12D1 Phan Qu\u1ed1c Khang",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9_6h6s8h4BQOXMs8T4CcuM86J9ZK_w_1761DVGpQ=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCKXbAM_Ig4V8wJAmDqr161A",
+        "authorChannelId": "UCKXbAM_Ig4V8wJAmDqr161A",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-10-08T00:01:02Z",
+        "updatedAt": "2022-10-08T00:01:02Z",
+        "id": "Ugw4CDjN4bsIMZ6CiWB4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "omg much more easy then java.",
         "textOriginal": "omg much more easy then java.",
         "authorDisplayName": "renas hamid",
@@ -10876,20 +10890,6 @@
         "publishedAt": "2022-08-26T02:12:05Z",
         "updatedAt": "2022-10-09T17:41:24Z",
         "id": "Ugw0C1RYcNm_IGvQkxt4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "I DID ITTTTTTTTT!!!!!!!!!!!!",
-        "textOriginal": "I DID ITTTTTTTTT!!!!!!!!!!!!",
-        "authorDisplayName": "12D1 Phan Qu\u1ed1c Khang",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9_6h6s8h4BQOXMs8T4CcuM86J9ZK_w_1761DVGpQ=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCKXbAM_Ig4V8wJAmDqr161A",
-        "authorChannelId": "UCKXbAM_Ig4V8wJAmDqr161A",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-10-08T00:01:02Z",
-        "updatedAt": "2022-10-08T00:01:02Z",
-        "id": "Ugw4CDjN4bsIMZ6CiWB4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -11201,20 +11201,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "Finally, a programmer that speaks like a normal human being. Every other tutorial seems to be made by people who have just forgotten what beginner even means.\n\nEDIT: omg guys thank you for all the -\nJust kidding, that's annoying. Wash your hands.",
-        "textOriginal": "Finally, a programmer that speaks like a normal human being. Every other tutorial seems to be made by people who have just forgotten what beginner even means.\n\nEDIT: omg guys thank you for all the -\nJust kidding, that's annoying. Wash your hands.",
-        "authorDisplayName": "Tea",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_w9Qr39wNY92slrzyG58fQlYpQlGQAJsVC6ZTC=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCOYKkH4pc2_SpXvSRYfTN0A",
-        "authorChannelId": "UCOYKkH4pc2_SpXvSRYfTN0A",
-        "viewerRating": "none",
-        "likeCount": 1194,
-        "publishedAt": "2020-05-16T19:39:15Z",
-        "updatedAt": "2020-05-30T20:29:19Z",
-        "id": "UgyqBxNK1-ACqQwjxox4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "Me encanta que Dalas haya logrado que todos estemos en algo que es \u00fatil y servir\u00e1 a otros probablemente, y a nosotros mismos. De verdad, gracias Dalas.",
         "textOriginal": "Me encanta que Dalas haya logrado que todos estemos en algo que es \u00fatil y servir\u00e1 a otros probablemente, y a nosotros mismos. De verdad, gracias Dalas.",
         "authorDisplayName": "Juani Melgarejo",
@@ -11313,6 +11299,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "You are an excellent teacher,  you have explained things so well and to the point, keep up the great work your doing.",
+        "textOriginal": "You are an excellent teacher,  you have explained things so well and to the point, keep up the great work your doing.",
+        "authorDisplayName": "machining projects at a hobby level plus woodworking",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9HHRcLF8I2o7QcWYrXDnuSorSq1L18yp-lJV7g=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIdnn_48csoK33XFv-LJbSw",
+        "authorChannelId": "UCIdnn_48csoK33XFv-LJbSw",
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2018-10-22T01:08:11Z",
+        "updatedAt": "2018-10-22T01:08:11Z",
+        "id": "UgxH18GB04CVkzln7nB4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "I just had python in my last semester.... but this video taught me the actual reason behind each command that I type!!!! Keep Up The Good Work brother...;)",
         "textOriginal": "I just had python in my last semester.... but this video taught me the actual reason behind each command that I type!!!! Keep Up The Good Work brother...;)",
         "authorDisplayName": "Rohan Mohanty",
@@ -11324,20 +11324,6 @@
         "publishedAt": "2020-08-29T20:34:52Z",
         "updatedAt": "2020-08-29T20:34:52Z",
         "id": "UgzKzVNIa8JhSxxpoXN4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "I ust completed the course and it was very informative. Thank you for your hard work on providing this course. Best regards",
-        "textOriginal": "I ust completed the course and it was very informative. Thank you for your hard work on providing this course. Best regards",
-        "authorDisplayName": "Ak\u0131n \u015eanl\u0131",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9SesXiS9My8XTF7sVZWN0fiXhqC-MZ06Aeog=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCZ1xTzlEFmkdZ79yufrzh1w",
-        "authorChannelId": "UCZ1xTzlEFmkdZ79yufrzh1w",
-        "viewerRating": "none",
-        "likeCount": 10,
-        "publishedAt": "2019-06-11T05:36:17Z",
-        "updatedAt": "2019-06-11T05:36:17Z",
-        "id": "UgxV5UjdgBRT-C__INZ4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -11520,20 +11506,6 @@
         "publishedAt": "2022-09-14T14:54:27Z",
         "updatedAt": "2022-09-14T14:54:27Z",
         "id": "UgwVOPUTteoEpncEQQZ4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "Per a m\u00ed mateixa.\n58:27 M'he quedat aqu\u00ed",
-        "textOriginal": "Per a m\u00ed mateixa.\n58:27 M'he quedat aqu\u00ed",
-        "authorDisplayName": "Martre",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ItqqoKdSGFlgPbi2Jdk9VktslJYI0k0RhCMbbJQmzSihnBMA_C0walvkuqheoID0EHoQbcjiIg=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCLwC2OnykbvuoUKx85lYzOw",
-        "authorChannelId": "UCLwC2OnykbvuoUKx85lYzOw",
-        "viewerRating": "none",
-        "likeCount": 1,
-        "publishedAt": "2022-07-09T20:03:33Z",
-        "updatedAt": "2022-07-09T20:03:33Z",
-        "id": "Ugzi4uGKSGC6_xklgdB4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -11730,6 +11702,20 @@
         "publishedAt": "2022-08-17T18:02:59Z",
         "updatedAt": "2022-08-17T18:02:59Z",
         "id": "UgxL9rI6vngQIbQQGfZ4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "Second time watching this, really loved it!",
+        "textOriginal": "Second time watching this, really loved it!",
+        "authorDisplayName": "kamsiyochukwu arinze",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9hlZT2SMt1fN9JSRca7lzCvXkLSdH2NsyupA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCTowfhQMAER_7L8xIn6CXmg",
+        "authorChannelId": "UCTowfhQMAER_7L8xIn6CXmg",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-07-10T03:09:59Z",
+        "updatedAt": "2022-07-10T03:09:59Z",
+        "id": "UgwJ96yyQFS2yzbCT3d4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -12111,6 +12097,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "thanks",
+        "textOriginal": "thanks",
+        "authorDisplayName": "Foroogh Farajzade",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8XG1I6Qf0v_dVpmlgwi3cuG4y0wuPEMeoVxtXH=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCFAkRMhoLjO00RLiuH464RA",
+        "authorChannelId": "UCFAkRMhoLjO00RLiuH464RA",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-10-23T19:12:48Z",
+        "updatedAt": "2022-10-23T19:12:48Z",
+        "id": "Ugx82UDrQJSV3M1u7jJ4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "For detailed videos on python topics, you can refer to https://www.youtube.com/c/FunCodingwithRahul/videos",
         "textOriginal": "For detailed videos on python topics, you can refer to https://www.youtube.com/c/FunCodingwithRahul/videos",
         "authorDisplayName": "Bidisha Chakrabarty",
@@ -12489,6 +12489,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "1:03:28",
+        "textOriginal": "1:03:28",
+        "authorDisplayName": "Study room",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8Qofe0VkszjxUL3KOc6E_4IrokUwGYgCYdMt1wIA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCR7htrxgYeOr91rwiqHa5_g",
+        "authorChannelId": "UCR7htrxgYeOr91rwiqHa5_g",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-10-08T00:02:02Z",
+        "updatedAt": "2022-10-08T00:02:02Z",
+        "id": "UgwDrtXajgYxN2jwPV94AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "at 2:28:42 why is out_of_guess in brackets",
         "textOriginal": "at 2:28:42 why is out_of_guess in brackets",
         "authorDisplayName": "AK",
@@ -12514,20 +12528,6 @@
         "publishedAt": "2022-08-02T20:09:39Z",
         "updatedAt": "2022-08-02T20:09:39Z",
         "id": "Ugw5EGWXf82_QpNLJ5J4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "1:03:28",
-        "textOriginal": "1:03:28",
-        "authorDisplayName": "Study room",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8Qofe0VkszjxUL3KOc6E_4IrokUwGYgCYdMt1wIA=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCR7htrxgYeOr91rwiqHa5_g",
-        "authorChannelId": "UCR7htrxgYeOr91rwiqHa5_g",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-10-08T00:02:02Z",
-        "updatedAt": "2022-10-08T00:02:02Z",
-        "id": "UgwDrtXajgYxN2jwPV94AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -13833,20 +13833,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "52:37",
-        "textOriginal": "52:37",
-        "authorDisplayName": "AHSAN HASIB",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/yonJ6TCO5HzfXe3RQroBiDCcnO2Z54UUq6fOYpvkAc8PSttB-U3qkuWqK_EmUT-a55yM30Qo=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCIPoNgf690wLWIjJskcPT9g",
-        "authorChannelId": "UCIPoNgf690wLWIjJskcPT9g",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-08-23T18:09:23Z",
-        "updatedAt": "2022-08-23T18:09:23Z",
-        "id": "Ugw_dDjuInT0hD_kLUJ4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "48:27",
         "textOriginal": "48:27",
         "authorDisplayName": "Swayzz",
@@ -13858,6 +13844,20 @@
         "publishedAt": "2022-08-21T22:14:50Z",
         "updatedAt": "2022-08-21T22:14:50Z",
         "id": "UgznDY7--RG9L0chi8l4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "52:37",
+        "textOriginal": "52:37",
+        "authorDisplayName": "AHSAN HASIB",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/yonJ6TCO5HzfXe3RQroBiDCcnO2Z54UUq6fOYpvkAc8PSttB-U3qkuWqK_EmUT-a55yM30Qo=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCIPoNgf690wLWIjJskcPT9g",
+        "authorChannelId": "UCIPoNgf690wLWIjJskcPT9g",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-08-23T18:09:23Z",
+        "updatedAt": "2022-08-23T18:09:23Z",
+        "id": "Ugw_dDjuInT0hD_kLUJ4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -14309,20 +14309,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "Your dedication & Hardwork shows how legit and reliable you are, honestly working with you can\u2019t express how grateful I\u2019m right now\u201d\u2764\ufe0f",
-        "textOriginal": "Your dedication & Hardwork shows how legit and reliable you are, honestly working with you can\u2019t express how grateful I\u2019m right now\u201d\u2764\ufe0f",
-        "authorDisplayName": "\ud83d\udc2c LOEHCRACK Is on IG\ud83d\udc2c",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/Fps90QQJ9w3dAkg0pCqWnpOMBzQsqhfGV14ppT7BpRKqfF4EaPvbnVMhlByGdIVc5LJDa4y_yu8=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCbhFB6jFmepjAmCPunwAp1w",
-        "authorChannelId": "UCbhFB6jFmepjAmCPunwAp1w",
-        "viewerRating": "none",
-        "likeCount": 3,
-        "publishedAt": "2022-06-26T23:55:52Z",
-        "updatedAt": "2022-06-26T23:55:52Z",
-        "id": "Ugz-xtaHHyaHNc1auvB4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "Only 1 hour into this and I've already written a 26 line Mad Libs program. I'm shocked how quickly I've got the hang of this, fantastic explanations. Will update this comment as I progress further into the video!",
         "textOriginal": "Only 1 hour into this and I've already written a 26 line Mad Libs program. I'm shocked how quickly I've got the hang of this, fantastic explanations. Will update this comment as I progress further into the video!",
         "authorDisplayName": "Kurt",
@@ -14614,6 +14600,20 @@
         "publishedAt": "2022-07-07T09:53:51Z",
         "updatedAt": "2022-07-07T09:53:51Z",
         "id": "Ugy7RdtoTYA_nj4FZmF4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "Merci!",
+        "textOriginal": "Merci!",
+        "authorDisplayName": "Dominique Toussaint",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_1lwF_JHfAa9HT8vaB5U1U0y-tQuEjdA3-wA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCjBlhtxdmpVNOuxVpMsH5mQ",
+        "authorChannelId": "UCjBlhtxdmpVNOuxVpMsH5mQ",
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-07-04T17:51:03Z",
+        "updatedAt": "2022-07-04T17:51:03Z",
+        "id": "Ugxz7c38H17fuJ9x3FV4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -15415,6 +15415,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "The amount of power I have felt to write \"print('Hello World!')\" and it actually work for the first time feels amazing",
+        "textOriginal": "The amount of power I have felt to write \"print('Hello World!')\" and it actually work for the first time feels amazing",
+        "authorDisplayName": "Soviet Leader",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/DKw4xiFAk9Ni5MMgv388Xs0yxkLBAnhh2FkB9CR81a1Izp2iZqpR7H_IWKLXfHu00A8U43RNAFk=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMhgDLlhgR22-ETshVXPSnA",
+        "authorChannelId": "UCMhgDLlhgR22-ETshVXPSnA",
+        "viewerRating": "none",
+        "likeCount": 34,
+        "publishedAt": "2022-03-13T19:37:00Z",
+        "updatedAt": "2022-03-13T19:37:00Z",
+        "id": "Ugz4CSdvXQjijOqJLJt4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "Dalas me llev\u00f3 aqu\u00ed, gracias dalas",
         "textOriginal": "Dalas me llev\u00f3 aqu\u00ed, gracias dalas",
         "authorDisplayName": "\u2022 alexx5225 \u2022",
@@ -15468,6 +15482,34 @@
         "publishedAt": "2021-03-14T16:49:26Z",
         "updatedAt": "2021-03-14T16:49:26Z",
         "id": "Ugz0LR2QkLKgMycEk_x4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "absolutely phenomenal tutorial, I watched it roughly a year ago and I haven't turned back since. I can kinda call myself an amateur programmer now from what I've learned, and this was the spark. Thank you so much for sharing your knowledge Mike.",
+        "textOriginal": "absolutely phenomenal tutorial, I watched it roughly a year ago and I haven't turned back since. I can kinda call myself an amateur programmer now from what I've learned, and this was the spark. Thank you so much for sharing your knowledge Mike.",
+        "authorDisplayName": "the numbers",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu95i8FVZOcj5YFe4TUcwcwjdhXhZC-lW1niEFIb=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSC9QIDr-ikmnV0RTPOLW7g",
+        "authorChannelId": "UCSC9QIDr-ikmnV0RTPOLW7g",
+        "viewerRating": "none",
+        "likeCount": 12,
+        "publishedAt": "2021-12-11T23:59:04Z",
+        "updatedAt": "2021-12-11T23:59:04Z",
+        "id": "Ugyah3wXAvGZljJmCX54AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "after struggling with the course for a lot of days,finally here i finish...REALLY APPRICIATED this free course",
+        "textOriginal": "after struggling with the course for a lot of days,finally here i finish...REALLY APPRICIATED this free course",
+        "authorDisplayName": "Chota Beast",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-tuFZZoa3HmsL8zMzC-aDHk3e_lRzfZENq8eQz9w=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC1Z15YjOa3akY_f7isUIx0Q",
+        "authorChannelId": "UC1Z15YjOa3akY_f7isUIx0Q",
+        "viewerRating": "none",
+        "likeCount": 10,
+        "publishedAt": "2022-05-31T04:31:36Z",
+        "updatedAt": "2022-05-31T04:31:36Z",
+        "id": "Ugysonp4g-faiIVMwzZ4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -15779,31 +15821,17 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "Good thing about this is that,  you wouldn't know if I fall asleep halfway through the tutorial, unlike my lecturers.\n\nBtw, this is a great tutorial. Thanks for posting this up. Keep it up and God bless!",
-        "textOriginal": "Good thing about this is that,  you wouldn't know if I fall asleep halfway through the tutorial, unlike my lecturers.\n\nBtw, this is a great tutorial. Thanks for posting this up. Keep it up and God bless!",
-        "authorDisplayName": "M Narman",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_5oq0-hQkWJlBOqB2O6d695SDqNuRhQ_r3_GvKRA=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCT3o5-aLXEIZ7eaAdUKLIsA",
-        "authorChannelId": "UCT3o5-aLXEIZ7eaAdUKLIsA",
+        "textDisplay": "the great thing is: This video never gets old! it is very long so it takes a long time to finish, so every day you can watch a bit!",
+        "textOriginal": "the great thing is: This video never gets old! it is very long so it takes a long time to finish, so every day you can watch a bit!",
+        "authorDisplayName": "Dark Ultron",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9P2PZtMsUxTSKBIx4m0Up4U3hcmW5Qp8-mFskWCA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCdUeHuq7-_Z4sgeejB7664Q",
+        "authorChannelId": "UCdUeHuq7-_Z4sgeejB7664Q",
         "viewerRating": "none",
         "likeCount": 5,
-        "publishedAt": "2019-06-28T02:36:30Z",
-        "updatedAt": "2019-06-28T02:36:30Z",
-        "id": "UgymKmoN4dvmxTMR7pJ4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "Amazing course! Learned a lot from it and recommend it to anyone looking to get familiar with Python.\nThank you!",
-        "textOriginal": "Amazing course! Learned a lot from it and recommend it to anyone looking to get familiar with Python.\nThank you!",
-        "authorDisplayName": "Ali Vaseghnia",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-5rlak6iLRAl0O2ZS9-5a3LlQHbahHLTDt9TJT1Ns=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCZRLuWvU_v05gPKEVfn0qOw",
-        "authorChannelId": "UCZRLuWvU_v05gPKEVfn0qOw",
-        "viewerRating": "none",
-        "likeCount": 5,
-        "publishedAt": "2019-05-26T11:15:42Z",
-        "updatedAt": "2019-05-26T11:15:42Z",
-        "id": "UgwZHE9wWnEpy706Zqh4AaABAg"
+        "publishedAt": "2020-07-25T16:56:54Z",
+        "updatedAt": "2020-07-25T16:56:54Z",
+        "id": "Ugw1AEQi7emP8nY3-n14AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -15818,20 +15846,6 @@
         "publishedAt": "2020-11-03T21:04:53Z",
         "updatedAt": "2020-11-05T04:53:51Z",
         "id": "Ugy_sCI7ns5EaCJpu_N4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "Thank you very much. This course was easily understandable.",
-        "textOriginal": "Thank you very much. This course was easily understandable.",
-        "authorDisplayName": "O(1)",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/vExC3sRIXKAWmA-woCMOb79bEPd2OmkomWYyqitl9y4UHWrlm9lqoJOjA5Gl8BzjlwvvMgiE=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCSwGgrh4-ChJ9BEo6fXJ75Q",
-        "authorChannelId": "UCSwGgrh4-ChJ9BEo6fXJ75Q",
-        "viewerRating": "none",
-        "likeCount": 5,
-        "publishedAt": "2019-06-02T09:58:11Z",
-        "updatedAt": "2019-06-02T09:58:11Z",
-        "id": "Ugwn4VMDLJXGgOKhvdl4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -15888,20 +15902,6 @@
         "publishedAt": "2022-06-30T10:19:43Z",
         "updatedAt": "2022-06-30T10:19:43Z",
         "id": "Ugwu0EWW5sqSyL7inf54AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "Merci!",
-        "textOriginal": "Merci!",
-        "authorDisplayName": "Dominique Toussaint",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_1lwF_JHfAa9HT8vaB5U1U0y-tQuEjdA3-wA=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCjBlhtxdmpVNOuxVpMsH5mQ",
-        "authorChannelId": "UCjBlhtxdmpVNOuxVpMsH5mQ",
-        "viewerRating": "none",
-        "likeCount": 1,
-        "publishedAt": "2022-07-04T17:51:03Z",
-        "updatedAt": "2022-07-04T17:51:03Z",
-        "id": "Ugxz7c38H17fuJ9x3FV4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -15972,6 +15972,20 @@
         "publishedAt": "2022-07-04T04:49:47Z",
         "updatedAt": "2022-07-04T04:49:47Z",
         "id": "UgxPRG0n_QH3vLvCROx4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "Per a m\u00ed mateixa.\n58:27 M'he quedat aqu\u00ed",
+        "textOriginal": "Per a m\u00ed mateixa.\n58:27 M'he quedat aqu\u00ed",
+        "authorDisplayName": "Martre",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ItqqoKdSGFlgPbi2Jdk9VktslJYI0k0RhCMbbJQmzSihnBMA_C0walvkuqheoID0EHoQbcjiIg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCLwC2OnykbvuoUKx85lYzOw",
+        "authorChannelId": "UCLwC2OnykbvuoUKx85lYzOw",
+        "viewerRating": "none",
+        "likeCount": 1,
+        "publishedAt": "2022-07-09T20:03:33Z",
+        "updatedAt": "2022-07-09T20:03:33Z",
+        "id": "Ugzi4uGKSGC6_xklgdB4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -16787,20 +16801,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "38:18",
-        "textOriginal": "38:18",
-        "authorDisplayName": "Only_mjk",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/srEJ8wHO4jpllccsVdXvvd314fw--7hRrBopjuhI9HZyF8wtUpXH0yE6LwanfnyEMWjgUiqctik=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCe6Btpc4zeq9B2vOvkEIqjQ",
-        "authorChannelId": "UCe6Btpc4zeq9B2vOvkEIqjQ",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-07-21T16:56:43Z",
-        "updatedAt": "2022-07-21T16:56:43Z",
-        "id": "Ugz9cWC3HFydLXO83qN4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "This was one of my first of many Python tutorials during pandemic, And I am now junior Data scientist. Thank you guys.",
         "textOriginal": "This was one of my first of many Python tutorials during pandemic, And I am now junior Data scientist. Thank you guys.",
         "authorDisplayName": "Harikrishnan V",
@@ -16941,6 +16941,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "Good thing about this is that,  you wouldn't know if I fall asleep halfway through the tutorial, unlike my lecturers.\n\nBtw, this is a great tutorial. Thanks for posting this up. Keep it up and God bless!",
+        "textOriginal": "Good thing about this is that,  you wouldn't know if I fall asleep halfway through the tutorial, unlike my lecturers.\n\nBtw, this is a great tutorial. Thanks for posting this up. Keep it up and God bless!",
+        "authorDisplayName": "M Narman",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_5oq0-hQkWJlBOqB2O6d695SDqNuRhQ_r3_GvKRA=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCT3o5-aLXEIZ7eaAdUKLIsA",
+        "authorChannelId": "UCT3o5-aLXEIZ7eaAdUKLIsA",
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2019-06-28T02:36:30Z",
+        "updatedAt": "2019-06-28T02:36:30Z",
+        "id": "UgymKmoN4dvmxTMR7pJ4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "Thank you for the amazing course! The Classes, Objects section just blew my mind. First time I ever watch further than the loops and functions. Definitely Recommend this course to everyone interested in the python.",
         "textOriginal": "Thank you for the amazing course! The Classes, Objects section just blew my mind. First time I ever watch further than the loops and functions. Definitely Recommend this course to everyone interested in the python.",
         "authorDisplayName": "Prokshit Angadi",
@@ -16983,20 +16997,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "I had a heck of a fun time with this video! One of the things I love about this is the small programs that you create along the way because I can pause the video and try to build them before you do and compare and contrast what I did to yours. I've never had this much fun learning to do something. Keep up the fantastic work!",
-        "textOriginal": "I had a heck of a fun time with this video! One of the things I love about this is the small programs that you create along the way because I can pause the video and try to build them before you do and compare and contrast what I did to yours. I've never had this much fun learning to do something. Keep up the fantastic work!",
-        "authorDisplayName": "Hunter Sikora",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-hCOZ-rKqzT_o5za9ErAX1jZPx20OAUA7fAg=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCZ2IaRfjNx8tdzEUxg3FlVw",
-        "authorChannelId": "UCZ2IaRfjNx8tdzEUxg3FlVw",
-        "viewerRating": "none",
-        "likeCount": 4,
-        "publishedAt": "2019-10-16T16:22:42Z",
-        "updatedAt": "2019-10-16T16:22:42Z",
-        "id": "Ugw6k5oMQbEbxb4iRFt4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "Remember to adjust your playback speed if you need to. This is the first video I finished without having to replay any point of the video multiple times to understand something. Best python programming tutorial ever.",
         "textOriginal": "Remember to adjust your playback speed if you need to. This is the first video I finished without having to replay any point of the video multiple times to understand something. Best python programming tutorial ever.",
         "authorDisplayName": "Demonetization",
@@ -17011,31 +17011,31 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "teaching everyone how to learn python for free and doing a great job educating people how to code. what a king",
-        "textOriginal": "teaching everyone how to learn python for free and doing a great job educating people how to code. what a king",
-        "authorDisplayName": "Victoria Nguyen",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu80BveVedrReYIAlf4kTr3dExdtgq7NFw4-m0ZhZw=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCMvdMGAoUh8-IJJrFBalogw",
-        "authorChannelId": "UCMvdMGAoUh8-IJJrFBalogw",
+        "textDisplay": "Amazing course, thank you. Usually in a course this long the content gets worse over the 4 hrs, however you managed to make this tutorial very helpful all throughout the video.",
+        "textOriginal": "Amazing course, thank you. Usually in a course this long the content gets worse over the 4 hrs, however you managed to make this tutorial very helpful all throughout the video.",
+        "authorDisplayName": "Max Lozano",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9QX8m2aJT-X3pj3mnB7BxoayjKT0D-MSWOpkiV6Q=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UC6y2M8NJFkXGst5uFK8IZwg",
+        "authorChannelId": "UC6y2M8NJFkXGst5uFK8IZwg",
         "viewerRating": "none",
         "likeCount": 4,
-        "publishedAt": "2020-05-31T20:34:51Z",
-        "updatedAt": "2020-05-31T20:34:51Z",
-        "id": "UgxamY2a8BaXgw_Ar1t4AaABAg"
+        "publishedAt": "2019-04-15T23:33:35Z",
+        "updatedAt": "2019-04-15T23:33:35Z",
+        "id": "Ugxoqq7m3madPstVrMh4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "This man explained the basics of Python the best out of every other youtube video\nI'll recommend it to my other friends who want to learn the basics.\nThank you",
-        "textOriginal": "This man explained the basics of Python the best out of every other youtube video\nI'll recommend it to my other friends who want to learn the basics.\nThank you",
-        "authorDisplayName": "Vlad-Alex 2 Gavanescu",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu81e0puD9Twsq_WmdGl02YK9Fs63GRvsaCQkU5-=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCwv_-_v_0Nj_oPLNk9yg7KA",
-        "authorChannelId": "UCwv_-_v_0Nj_oPLNk9yg7KA",
+        "textDisplay": "Your dedication & Hardwork shows how legit and reliable you are, honestly working with you can\u2019t express how grateful I\u2019m right now\u201d\u2764\ufe0f",
+        "textOriginal": "Your dedication & Hardwork shows how legit and reliable you are, honestly working with you can\u2019t express how grateful I\u2019m right now\u201d\u2764\ufe0f",
+        "authorDisplayName": "\ud83d\udc2c LOEHCRACK Is on IG\ud83d\udc2c",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/Fps90QQJ9w3dAkg0pCqWnpOMBzQsqhfGV14ppT7BpRKqfF4EaPvbnVMhlByGdIVc5LJDa4y_yu8=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCbhFB6jFmepjAmCPunwAp1w",
+        "authorChannelId": "UCbhFB6jFmepjAmCPunwAp1w",
         "viewerRating": "none",
-        "likeCount": 4,
-        "publishedAt": "2020-10-09T06:25:31Z",
-        "updatedAt": "2020-10-09T06:25:31Z",
-        "id": "Ugzw2zjSJrRm-vx8r6d4AaABAg"
+        "likeCount": 3,
+        "publishedAt": "2022-06-26T23:55:52Z",
+        "updatedAt": "2022-06-26T23:55:52Z",
+        "id": "Ugz-xtaHHyaHNc1auvB4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -18229,20 +18229,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "The amount of power I have felt to write \"print('Hello World!')\" and it actually work for the first time feels amazing",
-        "textOriginal": "The amount of power I have felt to write \"print('Hello World!')\" and it actually work for the first time feels amazing",
-        "authorDisplayName": "Soviet Leader",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/DKw4xiFAk9Ni5MMgv388Xs0yxkLBAnhh2FkB9CR81a1Izp2iZqpR7H_IWKLXfHu00A8U43RNAFk=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCMhgDLlhgR22-ETshVXPSnA",
-        "authorChannelId": "UCMhgDLlhgR22-ETshVXPSnA",
-        "viewerRating": "none",
-        "likeCount": 34,
-        "publishedAt": "2022-03-13T19:37:00Z",
-        "updatedAt": "2022-03-13T19:37:00Z",
-        "id": "Ugz4CSdvXQjijOqJLJt4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "7am to 11pm the time I spent spent on  this video course. .. now it's the practice time for next 15 days 4 hours a day. .. let's where I will land after 15 days... thanks a lot Mike \ud83d\ude4f",
         "textOriginal": "7am to 11pm the time I spent spent on  this video course. .. now it's the practice time for next 15 days 4 hours a day. .. let's where I will land after 15 days... thanks a lot Mike \ud83d\ude4f",
         "authorDisplayName": "pawan kumar",
@@ -18268,34 +18254,6 @@
         "publishedAt": "2021-04-08T08:19:15Z",
         "updatedAt": "2021-04-08T08:19:15Z",
         "id": "UgzhUZ-jKATvoxPQZ_p4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "absolutely phenomenal tutorial, I watched it roughly a year ago and I haven't turned back since. I can kinda call myself an amateur programmer now from what I've learned, and this was the spark. Thank you so much for sharing your knowledge Mike.",
-        "textOriginal": "absolutely phenomenal tutorial, I watched it roughly a year ago and I haven't turned back since. I can kinda call myself an amateur programmer now from what I've learned, and this was the spark. Thank you so much for sharing your knowledge Mike.",
-        "authorDisplayName": "the numbers",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu95i8FVZOcj5YFe4TUcwcwjdhXhZC-lW1niEFIb=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCSC9QIDr-ikmnV0RTPOLW7g",
-        "authorChannelId": "UCSC9QIDr-ikmnV0RTPOLW7g",
-        "viewerRating": "none",
-        "likeCount": 12,
-        "publishedAt": "2021-12-11T23:59:04Z",
-        "updatedAt": "2021-12-11T23:59:04Z",
-        "id": "Ugyah3wXAvGZljJmCX54AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "after struggling with the course for a lot of days,finally here i finish...REALLY APPRICIATED this free course",
-        "textOriginal": "after struggling with the course for a lot of days,finally here i finish...REALLY APPRICIATED this free course",
-        "authorDisplayName": "Chota Beast",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-tuFZZoa3HmsL8zMzC-aDHk3e_lRzfZENq8eQz9w=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UC1Z15YjOa3akY_f7isUIx0Q",
-        "authorChannelId": "UC1Z15YjOa3akY_f7isUIx0Q",
-        "viewerRating": "none",
-        "likeCount": 10,
-        "publishedAt": "2022-05-31T04:31:36Z",
-        "updatedAt": "2022-05-31T04:31:36Z",
-        "id": "Ugysonp4g-faiIVMwzZ4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -18369,6 +18327,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "Amazing course! Learned a lot from it and recommend it to anyone looking to get familiar with Python.\nThank you!",
+        "textOriginal": "Amazing course! Learned a lot from it and recommend it to anyone looking to get familiar with Python.\nThank you!",
+        "authorDisplayName": "Ali Vaseghnia",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-5rlak6iLRAl0O2ZS9-5a3LlQHbahHLTDt9TJT1Ns=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZRLuWvU_v05gPKEVfn0qOw",
+        "authorChannelId": "UCZRLuWvU_v05gPKEVfn0qOw",
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2019-05-26T11:15:42Z",
+        "updatedAt": "2019-05-26T11:15:42Z",
+        "id": "UgwZHE9wWnEpy706Zqh4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "This has to be the most straight forward lesson/tutorial I've ever watched. This helped me learn the basics, Thank you sir!",
         "textOriginal": "This has to be the most straight forward lesson/tutorial I've ever watched. This helped me learn the basics, Thank you sir!",
         "authorDisplayName": "SCOTTASTIC",
@@ -18380,20 +18352,6 @@
         "publishedAt": "2021-05-16T23:53:50Z",
         "updatedAt": "2021-05-16T23:53:50Z",
         "id": "UgxmNiSuWw8b-ETxxIB4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "the great thing is: This video never gets old! it is very long so it takes a long time to finish, so every day you can watch a bit!",
-        "textOriginal": "the great thing is: This video never gets old! it is very long so it takes a long time to finish, so every day you can watch a bit!",
-        "authorDisplayName": "Dark Ultron",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9P2PZtMsUxTSKBIx4m0Up4U3hcmW5Qp8-mFskWCA=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UCdUeHuq7-_Z4sgeejB7664Q",
-        "authorChannelId": "UCdUeHuq7-_Z4sgeejB7664Q",
-        "viewerRating": "none",
-        "likeCount": 5,
-        "publishedAt": "2020-07-25T16:56:54Z",
-        "updatedAt": "2020-07-25T16:56:54Z",
-        "id": "Ugw1AEQi7emP8nY3-n14AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -18481,6 +18439,20 @@
     },
     {
         "videoId": "rfscVS0vtbw",
+        "textDisplay": "Thank you very much. This course was easily understandable.",
+        "textOriginal": "Thank you very much. This course was easily understandable.",
+        "authorDisplayName": "O(1)",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/vExC3sRIXKAWmA-woCMOb79bEPd2OmkomWYyqitl9y4UHWrlm9lqoJOjA5Gl8BzjlwvvMgiE=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCSwGgrh4-ChJ9BEo6fXJ75Q",
+        "authorChannelId": "UCSwGgrh4-ChJ9BEo6fXJ75Q",
+        "viewerRating": "none",
+        "likeCount": 5,
+        "publishedAt": "2019-06-02T09:58:11Z",
+        "updatedAt": "2019-06-02T09:58:11Z",
+        "id": "Ugwn4VMDLJXGgOKhvdl4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
         "textDisplay": "I\u00b4m on 1:34:50 now, but I love this video. It\u00b4s making a lot of fun and it\u00b4s perfectly explained! It\u00b4s true, I\u00b4m already feel more confident to the Python. Mike is great, thank you very much for getting me in that. BIG THUMBS UP!",
         "textOriginal": "I\u00b4m on 1:34:50 now, but I love this video. It\u00b4s making a lot of fun and it\u00b4s perfectly explained! It\u00b4s true, I\u00b4m already feel more confident to the Python. Mike is great, thank you very much for getting me in that. BIG THUMBS UP!",
         "authorDisplayName": "Norb Zombie",
@@ -18492,6 +18464,48 @@
         "publishedAt": "2021-08-08T11:25:12Z",
         "updatedAt": "2021-08-08T11:27:26Z",
         "id": "UgysXXnPdjilybB9pOl4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "I had a heck of a fun time with this video! One of the things I love about this is the small programs that you create along the way because I can pause the video and try to build them before you do and compare and contrast what I did to yours. I've never had this much fun learning to do something. Keep up the fantastic work!",
+        "textOriginal": "I had a heck of a fun time with this video! One of the things I love about this is the small programs that you create along the way because I can pause the video and try to build them before you do and compare and contrast what I did to yours. I've never had this much fun learning to do something. Keep up the fantastic work!",
+        "authorDisplayName": "Hunter Sikora",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-hCOZ-rKqzT_o5za9ErAX1jZPx20OAUA7fAg=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCZ2IaRfjNx8tdzEUxg3FlVw",
+        "authorChannelId": "UCZ2IaRfjNx8tdzEUxg3FlVw",
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2019-10-16T16:22:42Z",
+        "updatedAt": "2019-10-16T16:22:42Z",
+        "id": "Ugw6k5oMQbEbxb4iRFt4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "teaching everyone how to learn python for free and doing a great job educating people how to code. what a king",
+        "textOriginal": "teaching everyone how to learn python for free and doing a great job educating people how to code. what a king",
+        "authorDisplayName": "Victoria Nguyen",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu80BveVedrReYIAlf4kTr3dExdtgq7NFw4-m0ZhZw=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCMvdMGAoUh8-IJJrFBalogw",
+        "authorChannelId": "UCMvdMGAoUh8-IJJrFBalogw",
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-05-31T20:34:51Z",
+        "updatedAt": "2020-05-31T20:34:51Z",
+        "id": "UgxamY2a8BaXgw_Ar1t4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "This man explained the basics of Python the best out of every other youtube video\nI'll recommend it to my other friends who want to learn the basics.\nThank you",
+        "textOriginal": "This man explained the basics of Python the best out of every other youtube video\nI'll recommend it to my other friends who want to learn the basics.\nThank you",
+        "authorDisplayName": "Vlad-Alex 2 Gavanescu",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu81e0puD9Twsq_WmdGl02YK9Fs63GRvsaCQkU5-=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCwv_-_v_0Nj_oPLNk9yg7KA",
+        "authorChannelId": "UCwv_-_v_0Nj_oPLNk9yg7KA",
+        "viewerRating": "none",
+        "likeCount": 4,
+        "publishedAt": "2020-10-09T06:25:31Z",
+        "updatedAt": "2020-10-09T06:25:31Z",
+        "id": "Ugzw2zjSJrRm-vx8r6d4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -19587,20 +19601,6 @@
     },
     {
         "videoId": "rfscVS0vtbw",
-        "textDisplay": "41:23",
-        "textOriginal": "41:23",
-        "authorDisplayName": "Skillful Cybernaut",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8F8W1IP9aziaGn-kaoXAmcmeyWBLJeNKo57HBdfQ=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UC8d7WrCIYkV1lew943p8LUg",
-        "authorChannelId": "UC8d7WrCIYkV1lew943p8LUg",
-        "viewerRating": "none",
-        "likeCount": 0,
-        "publishedAt": "2022-06-17T04:51:19Z",
-        "updatedAt": "2022-06-18T04:19:07Z",
-        "id": "Ugy6P22TR4cpO1VzhCF4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
         "textDisplay": "just started doing this course today. saw someone in the comments keeping track of their progress here so gonna give it a shot as well. hope i dont give up after day one lol\nday 1: did till mad libs (58:27) \nday 2: start from lists (1:03:10) till building better calculator\nday 3: start from (2:07:17) Dictionaries till (2:52:41) Building a Translator\nday 4: couldnt do it\nday 5: doneee",
         "textOriginal": "just started doing this course today. saw someone in the comments keeping track of their progress here so gonna give it a shot as well. hope i dont give up after day one lol\nday 1: did till mad libs (58:27) \nday 2: start from lists (1:03:10) till building better calculator\nday 3: start from (2:07:17) Dictionaries till (2:52:41) Building a Translator\nday 4: couldnt do it\nday 5: doneee",
         "authorDisplayName": "Iwrsiya Nawar",
@@ -19696,20 +19696,6 @@
         "publishedAt": "2020-10-08T16:26:00Z",
         "updatedAt": "2020-10-08T16:26:00Z",
         "id": "Ugz1SBbeIt0Zl42qaud4AaABAg"
-    },
-    {
-        "videoId": "rfscVS0vtbw",
-        "textDisplay": "Amazing course, thank you. Usually in a course this long the content gets worse over the 4 hrs, however you managed to make this tutorial very helpful all throughout the video.",
-        "textOriginal": "Amazing course, thank you. Usually in a course this long the content gets worse over the 4 hrs, however you managed to make this tutorial very helpful all throughout the video.",
-        "authorDisplayName": "Max Lozano",
-        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9QX8m2aJT-X3pj3mnB7BxoayjKT0D-MSWOpkiV6Q=s48-c-k-c0x00ffffff-no-rj",
-        "authorChannelUrl": "http://www.youtube.com/channel/UC6y2M8NJFkXGst5uFK8IZwg",
-        "authorChannelId": "UC6y2M8NJFkXGst5uFK8IZwg",
-        "viewerRating": "none",
-        "likeCount": 4,
-        "publishedAt": "2019-04-15T23:33:35Z",
-        "updatedAt": "2019-04-15T23:33:35Z",
-        "id": "Ugxoqq7m3madPstVrMh4AaABAg"
     },
     {
         "videoId": "rfscVS0vtbw",
@@ -20998,5 +20984,19 @@
         "publishedAt": "2022-06-08T22:57:47Z",
         "updatedAt": "2022-06-08T22:57:47Z",
         "id": "UgzGMbbtkNXVhQ0rr5F4AaABAg"
+    },
+    {
+        "videoId": "rfscVS0vtbw",
+        "textDisplay": "We all know... those are not just a list of lucky numbers... are they? ;)",
+        "textOriginal": "We all know... those are not just a list of lucky numbers... are they? ;)",
+        "authorDisplayName": "Marco Mateos",
+        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_yA4fnpVsW4-lyX9MQR5EcouuI-K0oscaCjST7W6Y=s48-c-k-c0x00ffffff-no-rj",
+        "authorChannelUrl": "http://www.youtube.com/channel/UCV05y4h7NMk4rJi-0yPpPgw",
+        "authorChannelId": "UCV05y4h7NMk4rJi-0yPpPgw",
+        "viewerRating": "none",
+        "likeCount": 0,
+        "publishedAt": "2022-05-26T13:17:53Z",
+        "updatedAt": "2022-05-26T13:17:53Z",
+        "id": "UgwzM57BnTD0XCo3zk14AaABAg"
     }
 ]
