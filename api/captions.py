@@ -2,6 +2,8 @@ import json
 import os
 import re
 import requests
+import sklearn
+from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
 
 __FILE_PATH = os.path.join('data', 'captions.json')
 
@@ -44,7 +46,8 @@ def fetch(youtubeId: str):
         subtitle: str
         for subtitle in data:
             for word in subtitle.lower().split(' '):
-                word_map[word] = word_map.get(word, 1) + 1
+                  if word not in ENGLISH_STOP_WORDS :
+                     word_map[word] = word_map.get(word, 1) + 1
     else:
         print("No Subtitle Found")
 
