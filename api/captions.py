@@ -6,18 +6,22 @@ import requests
 __FILE_PATH = os.path.join('data', 'captions.json')
 
 
-def load():
+def load(return_list=False):
     """
     Loads the captions from captions.json
 
-    Returns (dict) : captions
+    Returns (dict | list) : captions. 
+        Default is dict. Use {return_list} to return as list
     """
     with open(__FILE_PATH, 'r') as f:
         comments: dict = json.loads(f.read())
-        return comments
+        if return_list:
+            return comments['list']
+        else:
+            return comments['dict']
 
 
-def fetch(youtubeId: str):
+def fetch(youtubeId: str, return_list=False):
     """
     Returns (dict) : caption unqiue words with it's frequency count. Empty {} if no subtitle for english found.
     """
@@ -32,17 +36,18 @@ def fetch(youtubeId: str):
             break
 
     word_map = {}
+    subtitles: list
 
     if caption_url:
         res = requests.get(caption_url+'&fmt=json3')
-        data = res.json()
+        subtitles = res.json()
 
         # Extracting subtitle
-        data = list(map(lambda x: x['segs'][0]['utf8'].replace('\n', ''), data['events']))
+        subtitles = list(map(lambda x: x['segs'][0]['utf8'].replace('\n', ''), subtitles['events']))
 
         # Converiting it to keys
         subtitle: str
-        for subtitle in data:
+        for subtitle in subtitles:
             for word in subtitle.lower().split(' '):
                 word_map[word] = word_map.get(word, 1) + 1
     else:
@@ -50,6 +55,9 @@ def fetch(youtubeId: str):
 
     print(f'Dumping file to {__FILE_PATH}')
     with open(__FILE_PATH, 'w') as f:
-        f.write(json.dumps(word_map, indent=4))
+        f.write(json.dumps({'dict': word_map, 'list': subtitles}, indent=4))
 
-    return word_map
+    if return_list:
+        return subtitles
+    else:
+        return word_map
